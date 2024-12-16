@@ -4,6 +4,14 @@
 
 The dataset can be found here: http://mir.ilsp.gr/track_popularity.html
 
+## Report Structure
+
+- Introdução
+- Dataset
+- Processo / Algoritmo
+- Exploração de Resultados
+(>=3 pags)
+
 ## Group
 
 - André Barbosa (up202007398)
