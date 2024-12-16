@@ -88,6 +88,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 87,Tyler Farr,http://www.billboard.com/artist/430644/tyler-farr,ARQDJCJ12B3B352387,6cfd7ffc-824f-4219-8e27-4b9417700f44,3vHV92ecrylnUHDM4d2MtC,804329.0,389270799.0
 88,Omarion Featuring Chris Brown & Jhene Aiko,http://www.billboard.com/artist/312656/omarion,,,3vHV92ecrylnUHDM4d2MtC,,
 89,Blake Shelton,http://www.billboard.com/artist/289793/blake-shelton,ARV9LSS1187B98C471,ab5d785b-ff87-48b5-b9e1-027e3c21ec0d,1UTPBmNbXNTittyMJrNkvw,3956.0,189204.0
+90,Hoodie Allen Featuring Ed Sheeran,http://www.billboard.com/artist/303588/hoodie-allen,,,,,
 91,Jason Derulo,http://www.billboard.com/artist/304245/jason-derulo,,6de0f914-3e60-4418-be3b-42e0feb6eb4d,07YZf4WDAMNwqr4jfgOZ8y,347171.0,259118085.0
 92,Nicki Minaj,http://www.billboard.com/artist/312259/nicki-minaj,ARDYVEQ122BCFCC19E,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,0hCNtLu0JehylgoiP8L4Gh,660559.0,278464538.0
 93,Rich Gang Featuring Young Thug & Rich Homie Quan,http://www.billboard.com/artist/1563209/rich-gang,,,0hCNtLu0JehylgoiP8L4Gh,,
@@ -102,7 +103,9 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 102,Jessie J,http://www.billboard.com/artist/304565/jessie-j,ARWWTYW11F4C842642,79239441-bfd5-4981-a70c-55c3f15c1287,2gsggkzM5R49q6jpPvazou,341566.0,405360400.0
 103,Jessie J Featuring 2 Chainz,http://www.billboard.com/artist/304565/jessie-j,,,2gsggkzM5R49q6jpPvazou,,
 104,Charli XCX,http://www.billboard.com/artist/1559243/charli-xcx,ARMWDYO11F50C49B36,05f3353e-e2d9-4344-a3c9-8009dd8e0427,25uiPmTg16RbhZWAqwLBy5,280814.0,432942256.0
+105,French Montana Featuring Jeremih,http://www.billboard.com/artist/302488/french-montana,,,,,
 106,Becky G,http://www.billboard.com/artist/6090336/becky-g,ARMOWSI13997899FD6,db8fad3a-e131-47a1-8782-c2ee93708cdd,4obzFoKoKRHIphyHzJ35G3,1887887.0,550411604.0
+107,"Juicy J, Wiz Khalifa & Ty Dolla $ign Featuring Kill The Noise & Madsonik",,,,,,
 108,Matt McAndrew,http://www.billboard.com/artist/6334934/matt-mcandrew,,bf99b23e-8fe9-4470-bc6e-1a2bdea53d39,0du5cEVh5yTK9QJze8zA0C,,811256310.0
 109,Craig Wayne Boyd,http://www.billboard.com/artist/6322343/craig-wayne-boyd,ARXQJTP12AA0D8C2D9,,0TnOYISbd1XYRBk9myaseg,,377899621.0
 110,Mariah Carey,http://www.billboard.com/artist/309388/mariah-carey,ARKSZW81187B9B695D,1de93a63-3a9f-443a-ba8a-a43b5fe0121e,4iHNK0tOyZPYnBU7nGAgpQ,5732.0,91853.0
@@ -434,6 +437,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 436,Macklemore & Ryan Lewis Featuring Wanz,http://www.billboard.com/artist/1490130/macklemore,,,0C8ZW7ezQVs4URX5aX7Kqx,,
 437,Ciara,http://www.billboard.com/artist/299324/ciara,ARS2P621187FB37B82,183105b5-3e68-4748-9086-2c1c11bf7a3d,2NdeV5rLm47xAvogXrYhJX,8201.0,14317116.0
 438,Ariana Grande Featuring Nathan Sykes,http://www.billboard.com/artist/1484343/ariana-grande,,,7qG3b048QCHVRO5Pv1T5lw,,
+439,Jay Z Featuring Rick Ross,http://www.billboard.com/artist/304305/jay-z,,,,,
 440,Yo Gotti Featuring Jeezy & YG,http://www.billboard.com/artist/431628/yo-gotti,,,6oMuImdp5ZcFhWP0ESe6mG,,
 441,Green Shoe Studio Featuring Jacob Colgan & Fred Stobaugh,,,,0A0FS04o6zMoto8OKPsDwY,,
 442,J. Cole Featuring Miguel,http://www.billboard.com/artist/276541/j-cole,,,0A0FS04o6zMoto8OKPsDwY,,
@@ -494,6 +498,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 497,Gloriana,http://www.billboard.com/artist/302950/gloriana,ARGCY1Y1187B9A4FA5,9ad8aede-6938-48f2-93fa-908bc4da9ef6,5RjqSn7vYk8Qb9GeLWRRhB,266505.0,271140487.0
 498,A$AP Ferg,http://www.billboard.com/artist/5679878/aap-ferg,,c45d161f-83ce-4464-ba41-44202e6916d9,5dHt1vcEm9qb8fCyLcB3HL,1482862.0,582346993.0
 499,Wale Featuring Tiara Thomas,http://www.billboard.com/artist/277789/wale,,,5dHt1vcEm9qb8fCyLcB3HL,,
+500,Olly Murs Featuring Flo Rida,http://www.billboard.com/artist/312520/olly-murs,,,,,
 501,T.I. Featuring Lil Wayne,http://www.billboard.com/artist/279842/arcadia,,,3c8GP4Z8LbKTZ5NIPdZz0d,,
 502,Danielle Bradberry,,,,5dHt1vcEm9qb8fCyLcB3HL,,
 503,Zach Sobiech,http://www.billboard.com/artist/1566556/zach-sobiech,,1c32981d-ef22-4cbd-babb-a89e48a01405,1gPo4GYra6HG4nBHD1D3c5,1474939.0,587906659.0
@@ -506,6 +511,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 510,will.i.am & Britney Spears,http://www.billboard.com/artist/431547/william,,,5Zq7R5qmi58ByYyBQTlNuk,,
 511,Calvin Harris Featuring Florence Welch,http://www.billboard.com/artist/275856/calvin-harris,,,26dSoYclwsYLMAKD3tpOr4,,
 512,Lupe Fiasco & Guy Sebastian,http://www.billboard.com/artist/308591/lupe-fiasco,,,0IROOdQ2fQUcoaEPqt1Isg,,2851441.0
+513,Carly Rae Jepsen Featuring Nicki Minaj,http://www.billboard.com/artist/298709/carly-rae-jepsen,,,,,
 514,Young Jeezy Featuring 2 Chainz,http://www.billboard.com/artist/431677/young-jeezy,,,5PjekOABtfU2Kwo0AHVmci,,
 515,"A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",http://www.billboard.com/artist/275210/aap-rocky,,,17lzZA2AlOHwCwFALHttmp,,
 516,Swedish House Mafia Featuring John Martin,http://www.billboard.com/artist/281173/swedish-house-mafia,,,17lzZA2AlOHwCwFALHttmp,,
@@ -559,6 +565,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 564,Lil Wayne Featuring Detail,http://www.billboard.com/artist/307264/lil-wayne,,,6sFIWsNpZYqfjUpaCgueju,,
 565,The Lonely Island Featuring Adam Levine & Kendrick Lamar,http://www.billboard.com/artist/278544/alfred-henning,,,4sglKanXuoU0gqGYP3wiNv,,
 566,Passion Pit,http://www.billboard.com/artist/326858/passion-pit,AR6PFD411C8A416424,4449ccf6-c948-4d33-aa97-b6ad98ce4b5b,7gjAu1qr5C2grXeQFFOGeh,272425.0,288340229.0
+567,"The Barden Bellas, The Treblemakers & The BU Harmonics",http://www.billboard.com/artist/1490146/the-barden-bellas,,,,,
 568,The Barden Bellas,http://www.billboard.com/artist/1490146/the-barden-bellas,,,2hJPr4lk7Q8SSvCVBl9fWM,,
 569,Alex Clare,http://www.billboard.com/artist/278447/alex-clare,,56f62fe8-d3a0-46e0-b5df-a64a8b4b4274,5Tf4EH8tDvznnjULcFxkIl,883520.0,403484444.0
 570,Juicy J Featuring Lil Wayne & 2 Chainz,http://www.billboard.com/artist/305353/juicy-j,,,5Tf4EH8tDvznnjULcFxkIl,,
@@ -580,13 +587,16 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 586,Kelly Rowland Featuring Lil Wayne,http://www.billboard.com/artist/305688/kelly-rowland,,,137W8MRPWKqSmrBGDBFSop,,
 587,Cher Lloyd Featuring Becky G,http://www.billboard.com/artist/299063/cher-lloyd,,,55Aa2cqylxrFIXC767Z865,,
 588,Kid Cudi,http://www.billboard.com/artist/305822/kid-cudi,ARD46C811C8A414F3F,,0fA0VVWsXO9YnASrzqfmYu,259602.0,273058501.0
+589,"DJ Drama, 2 Chainz, Meek Mill, Jeremih",http://www.billboard.com/artist/303052/gracie-benedith,,,,,
 590,2 Chainz Featuring Kanye West,http://www.billboard.com/artist/431852/2-chainz,,,4AK6F7OLvEQ5QYCBNiQWHq,,
 591,Ludacris Featuring Kelly Rowland,http://www.billboard.com/artist/308504/ludacris,,,1n2pb9Tsfe4SwAjmUac6YT,,
+592,will.i.am Featuring Britney Spears,http://www.billboard.com/artist/431547/william,,,,,
 593,Terry McDermott,,,,,,201460082.0
 594,50 Cent Featuring Eminem & Adam Levine,http://www.billboard.com/artist/431969/50-cent,,,6vWDO969PvNqNYHIOW5v0m,,
 595,Enrique Iglesias Featuring Sammy Adams,http://www.billboard.com/artist/301773/enrique-iglesias,,,4bYPcJP5jwMhSivRcqie2n,,
 596,Owl City & Carly Rae Jepsen,,,77eee697-618d-4ad6-9bd2-5151b1dd47b0,0RpddSzUHfncUWNJXKOsjy,,264481094.0
 597,"French Montana Featuring Rick Ross, Drake, Lil Wayne",http://www.billboard.com/artist/302488/french-montana,,,6sFIWsNpZYqfjUpaCgueju,,
+598,Wiz Khalifa Featuring Akon,http://www.billboard.com/artist/431494/wiz-khalifa,,,,,
 599,Nicholas David,,,,,,496195505.0
 600,Melanie Martinez,http://www.billboard.com/artist/1493230/melanie-martinez,,,,,212916643.0
 601,Christina Perri Featuring Steve Kazee,http://www.billboard.com/artist/299255/christina-perri,,,3FfvYsEGaIb52QPXhg4DcH,,
@@ -599,12 +609,15 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 608,Trey Songz Featuring T.I.,http://www.billboard.com/artist/430421/trey-songz,,,6jJ0s89eD6GaHleKKya26X,,
 609,Christina Aguilera,http://www.billboard.com/artist/299251/christina-aguilera,AR0S7TA1187FB4D024,0103c1cc-4a09-4a5d-a344-56ad99a77193,1l7ZsJRRS8wlW3WfJfPfNS,216.0,259398.0
 610,Brandy Featuring Chris Brown,http://www.billboard.com/artist/297075/brandy,,,1l7ZsJRRS8wlW3WfJfPfNS,,
+611,"Kanye West, Big Sean, Pusha T, 2 Chainz",,,,,,
 612,David Guetta Featuring Chris Brown & Lil Wayne,http://www.billboard.com/artist/300445/david-guetta,,,6S2OmqARrzebs0tKUEyXyp,,
 613,Jason Mraz,http://www.billboard.com/artist/304259/jason-mraz,ARML3X41187FB35F2E,20244d07-534f-4eff-b4d4-930878889970,4phGZZrJZRo4ElhRtViYdl,4260.0,156987.0
 614,2 Chainz Featuring Drake,http://www.billboard.com/artist/431852/2-chainz,,,4phGZZrJZRo4ElhRtViYdl,,
 615,Cher Lloyd,http://www.billboard.com/artist/299063/cher-lloyd,ARKTYQS130DC7809DF,685c876c-1b1c-4ebf-9244-b5254a4297b0,4m4SfDVbF5wxrwEjDKgi4k,1037557.0,396747750.0
+616,Sam Palladio & Clare Bowen,,,,,,
 617,matchbox twenty,http://www.billboard.com/artist/309959/matchbox-twenty,ARVLXWP1187FB5B94A,0b76f632-25fa-4681-9862-86499c28afd3,3Ngh2zDBRPEriyxQDAMKd1,4404.0,711111.0
 618,Meek Mill Featuring Drake,http://www.billboard.com/artist/310352/meek-mill,,,4M0DLz8te9Q1lNIXBBwvfG,,
+619,Kid Cudi Featuring King Chip,http://www.billboard.com/artist/305822/kid-cudi,,,,,
 620,fun. Featuring Janelle Monae,http://www.billboard.com/artist/302552/fun,,,4AK6F7OLvEQ5QYCBNiQWHq,,
 621,Usher Featuring Rick Ross,http://www.billboard.com/artist/430708/usher,,,4AK6F7OLvEQ5QYCBNiQWHq,,
 622,Love And Theft,http://www.billboard.com/artist/308369/love-and-theft,,7e5cfc9a-e9e1-46f1-b81a-861b12049488,03a5eVjzFyQlR4XyVSwt4t,,475365785.0
@@ -618,6 +631,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 630,"Wale Featuring Rick Ross, Meek Mill & T-Pain",http://www.billboard.com/artist/277789/wale,,,7x8nK0m0cP2ksQf0mjWdPS,,
 631,Olly Murs Featuring Chiddy Bang,http://www.billboard.com/artist/312520/olly-murs,,,7x8nK0m0cP2ksQf0mjWdPS,,
 632,J. Cole Featuring Missy Elliott,http://www.billboard.com/artist/276541/j-cole,,,40giwFcTQtv9ezxW8yqxJU,1313166.0,
+633,Kanye West  Jay-Z  Big Sean,,,,,,
 634,Josh Turner,http://www.billboard.com/artist/305248/josh-turner,ARKZ13R1187FB54FEE,a77d707e-ab95-4090-a945-cfbfcc04f753,7vCtweS8UVAXTyau2j0rDT,16509.0,1883437.0
 635,Green Day,http://www.billboard.com/artist/303108/green-day,ARV3CRH1187B9A1B21,,7oPftvlwr6VrsViSDV7fJY,610.0,954266.0
 636,Flo Rida Featuring Sia,http://www.billboard.com/artist/302239/flo-rida,,,137W8MRPWKqSmrBGDBFSop,,
@@ -656,6 +670,8 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 669,Rihanna Featuring Chris Brown,http://www.billboard.com/artist/365068/rihanna,,,3FfvYsEGaIb52QPXhg4DcH,,
 670,Travis Porter Featuring Tyga,http://www.billboard.com/artist/430388/travis-porter,,,5pKCCKE2ajJHZ9KAiaK11H,,
 671,Rihanna Featuring Calvin Harris,http://www.billboard.com/artist/365068/rihanna,,,5LHRHt1k9lMyONurDHEdrp,,
+672,"Wale Featuring Rick Ross, Meek Mill, & T-Pain",http://www.billboard.com/artist/277789/wale,,,,,
+673,BTR,,,,,,
 674,Justin Bieber Featuring Drake,http://www.billboard.com/artist/305459/justin-bieber,,,6yJCxee7QumYr820xdIsjo,,
 675,Michel Telo,http://www.billboard.com/artist/310951/michel-tel,,,3TVXtAsR1Inumwj472S9r4,,
 676,B.o.B,http://www.billboard.com/artist/275499/bob,ARKQQZA12086C116FC,60614320-9caf-4ae4-bded-7140672fdf8a,5ndkK3dpZLKtBklKjxNQwT,156804.0,259700865.0
@@ -666,7 +682,10 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 681,David Guetta Featuring Nicki Minaj,http://www.billboard.com/artist/300445/david-guetta,,,0a1gHP0HAqALbEyxaD5Ngn,,
 682,Jay Sean Featuring Pitbull,http://www.billboard.com/artist/304297/jay-sean,,,66lH4jAE7pqPlOlzUKbwA0,,
 683,Maroon 5 Featuring Christina Aguilera,http://www.billboard.com/artist/309663/maroon-5,,,1UTPBmNbXNTittyMJrNkvw,,
+684,Ca$hOut,http://www.billboard.com/artist/275741/cah-out,,,,,
+685,Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,,,,,,
 686,Gym Class Heroes Featuring Neon Hitch,http://www.billboard.com/artist/303282/gym-class-heroes,,,4gzpq5DPGxSnKTe4SA8HAU,,
+687,Drake Featuring The Weekend,http://www.billboard.com/artist/301284/drake,,,,,
 688,Kenny Chesney & Tim McGraw,,,,4gzpq5DPGxSnKTe4SA8HAU,,
 689,Tyga,http://www.billboard.com/artist/430631/tyga,ARGUYNJ11C8A41506B,8e68819d-71be-4e7d-b41d-f1df81b01d3f,5LHRHt1k9lMyONurDHEdrp,414332.0,268893121.0
 690,Tony Lucca,http://www.billboard.com/artist/1561892/sonia-saldivar-hull,,,5LHRHt1k9lMyONurDHEdrp,,5437436.0
@@ -683,6 +702,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 701,Rick Ross Featuring Drake & French Montana,http://www.billboard.com/artist/365033/rick-ross,,,2teIxF2qgr0rYmTTMKiZ7s,,
 702,Mac Miller,http://www.billboard.com/artist/276901/mac-miller,ARSKHHY1269FB3830E,8b22acd6-20e6-4463-a75c-c14b5cfdb666,4LLpKhyESsyAXpc4laK94U,946442.0,419944559.0
 703,Future Featuring T.I.,http://www.billboard.com/artist/302577/future,,,4LLpKhyESsyAXpc4laK94U,,
+704,Kanye West Featuring DJ Khaled,http://www.billboard.com/artist/276709/kanye-west,,,,,
 705,Gotye,http://www.billboard.com/artist/303039/gotye,ARKBXMX1187B9AA807,d614b0ad-fe3a-4927-b413-48cb831a814b,2AsusXITU8P25dlRNhcAbG,183323.0,161541223.0
 706,Jennifer Hudson & Ne-Yo Featuring Rick Ross,,,,2AsusXITU8P25dlRNhcAbG,,
 707,Jay Z  Kanye West,,,,1UTPBmNbXNTittyMJrNkvw,,
@@ -694,6 +714,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 713,Coldplay Featuring Rihanna,http://www.billboard.com/artist/299516/coldplay,,,3sgFRtyBnxXD5ESfmbK4dl,,
 714,Shinedown,http://www.billboard.com/artist/279123/shinedown,ARGCBAJ1187FB3F481,c5eb9407-caeb-4303-b383-6929aa94021c,70BYFdaZbEKbeauJ670ysI,4541.0,1883858.0
 715,Melanie Fiona,http://www.billboard.com/artist/310413/melanie-fiona,ARSVKYJ12086C16FBA,,4O2YL4ygn6eTBC0w1hyWUM,312840.0,300021654.0
+716,Waka Flocka Flame Featuring Trey Songz,http://www.billboard.com/artist/277783/waka-flocka-flame,,,,,
 717,Sean Paul,http://www.billboard.com/artist/1490159/sean-paul,ARGQL2Q1187B9B0149,75be165a-ad83-4d12-bd28-f589a15c479f,3Isy6kedDrgPYoTS1dazA9,4562.0,155138.0
 718,Diggy Featuring Jeremih,http://www.billboard.com/artist/300938/diggy,,,3Isy6kedDrgPYoTS1dazA9,,
 719,Madonna Featuring Nicki Minaj & M.I.A.,http://www.billboard.com/artist/308786/madonna,,,5vngPClqofybhPERIqQMYd,,
@@ -710,6 +731,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 730,Selena Gomez & The Scene,http://www.billboard.com/artist/278619/selena-gomez-scene,ARVOZXD12454A4CC66,2f4f5d16-7102-4110-97fd-f5c365d6bb26,6dJeKm76NjfXBNTpHmOhfO,425576.0,327163415.0
 731,Wale Featuring Miguel,http://www.billboard.com/artist/277789/wale,,,6l3HvQ5sa6mXTsMTB19rO5,,
 732,Young The Giant,http://www.billboard.com/artist/431693/young-the-giant,ARXSTES12C1DF52293,8e494408-8620-4c6a-82c2-c2ca4a1e4f12,4j56EQDQu5XnL7R3E9iFJT,822982.0,394582977.0
+733,Far*East Movement Featuring Justin Bieber,,,,,,
 734,Estelle,http://www.billboard.com/artist/301898/estelle,,94144800-e903-4b08-ab7a-e1927e1d9361,5T0MSzX9RC5NA6gAI6irSn,5753.0,27060010.0
 735,Whitney Houston,http://www.billboard.com/artist/431329/whitney-houston,AR30R5E1187B9AD78A,0a390d85-5bb7-4161-a615-aad48962aabd,6XpaIBNiVzIetEPCWDvAFP,1925.0,13952.0
 736,Gym Class Heroes Featuring Adam Levine,http://www.billboard.com/artist/303282/gym-class-heroes,,,6XpaIBNiVzIetEPCWDvAFP,,
@@ -720,6 +742,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 741,"Meek Mill Featuring T.I., Birdman, Lil Wayne, DJ Khaled, Rick Ross & Swizz Beatz",http://www.billboard.com/artist/310352/meek-mill,,,3P33qFNGBVXl86yQYWspFj,,
 742,Jay Z  Kanye West Featuring Frank Ocean,,,,0hCNtLu0JehylgoiP8L4Gh,,
 743,deadmau5 Featuring Greta Svabo Bech,http://www.billboard.com/artist/300586/deadmau5,,,1W3FSF1BLpY3hlVIgvenLz,,
+744,"Meek Mill Featuring T.I., Birdman Lil Wayne, DJ Khaled, Rick Ross & Swizz Beatz",http://www.billboard.com/artist/310352/meek-mill,,,,,
 745,Lindsey Pavao,http://www.billboard.com/artist/307429/lindsey-pavao,,,6yJCxee7QumYr820xdIsjo,,458635688.0
 746,Glee Cast Featuring Ricky Martin,,,,0hCNtLu0JehylgoiP8L4Gh,,
 747,T-Pain Featuring Wiz Khalifa & Lily Allen,http://www.billboard.com/artist/277474/t-pain,,,6yJCxee7QumYr820xdIsjo,,
@@ -727,11 +750,13 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 749,Rick Ross Featuring Nicki Minaj,http://www.billboard.com/artist/365033/rick-ross,,,137W8MRPWKqSmrBGDBFSop,,
 750,Glee Cast Featuring 2Cellos,,,,0hCNtLu0JehylgoiP8L4Gh,,
 751,Waka Flocka Flame Featuring Drake,http://www.billboard.com/artist/277783/waka-flocka-flame,,,0hCNtLu0JehylgoiP8L4Gh,,
+752,"YG Featuring Tyga, Snoopd Dogg & Nipsey Hussle",,,,,,
 753,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",http://www.billboard.com/artist/1490081/pitbull,,,6aZyMrc4doVtZyKNilOmwu,,
 754,will.i.am Featuring Mick Jagger & Jennifer Lopez,,,,2IvkS5MXK0vPGnwyJsrEyV,,
 755,Beyonce Featuring Andre 3000,http://www.billboard.com/artist/281569/beyonce,,,7H6dkUChT5EoOQtUVMg4cN,,
 756,Cobra Starship Featuring Sabi,http://www.billboard.com/artist/299483/cobra-starship,,,3TVXtAsR1Inumwj472S9r4,,
 757,David Nail Featuring Sarah Buxton,http://www.billboard.com/artist/300484/david-nail,,,7gP3bB2nilZXLfPHJhMdvc,,
+758,Chris Brown Featuring Kevin McCall,http://www.billboard.com/artist/1486846/chris-brown,,,,,
 759,Edens Edge,http://www.billboard.com/artist/301444/edens-edge,,ab5d785b-ff87-48b5-b9e1-027e3c21ec0d,6KAwb5D0KanI575XxOucMt,,434803160.0
 760,Van Halen,http://www.billboard.com/artist/277707/van-halen,,2eabf78f-61fd-43d5-a4b4-0e9b376d9849,2cnMpRsOVqtPMfq7YiFE6K,4741.0,166529.0
 761,Snow Patrol,http://www.billboard.com/artist/279670/snow-patrol,ARVN9FZ1187FB393F1,664c3e0e-42d8-48c1-b209-1efca19c0325,3rIZMv9rysU7JkLzEaC5Jp,269.0,5327254.0
@@ -763,9 +788,11 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 787,Matt Nathanson Featuring Sugarland,http://www.billboard.com/artist/310031/matt-nathanson,,,0du5cEVh5yTK9QJze8zA0C,,
 788,Faith Hill,http://www.billboard.com/artist/276160/faith-hill,ARVNGA71187FB3C107,1415b94a-ae0d-4918-9100-1943e8227f1b,25NQNriVT2YbSW80ILRWJa,4024.0,168620.0
 789,Ronnie Dunn,http://www.billboard.com/artist/368468/ronnie-dunn,ARLLM821187FB3C10A,508f4f83-26dc-4d21-98d9-1a8c04d5ad4a,1iLuTmIgxCEiEllDSWkeIy,845892.0,17720.0
+790,Chris Brown Feat. Ludacris,http://www.billboard.com/artist/1486846/chris-brown,,,,,
 791,Red Hot Chili Peppers,http://www.billboard.com/artist/364771/red-hot-chili-peppers,ARE8GLF1187FB52532,f59c5520-5f46-4d2c-b2c4-822eabf53419,0L8ExT028jH3ddEcZwqJJ5,1283.0,889780.0
 792,Hot Chelle Rae,http://www.billboard.com/artist/303616/hot-chelle-rae,,3979bb32-59b4-442e-aafa-de4ae2439400,6jTnHxhb6cDCaCu4rdvsQ0,405118.0,324906440.0
 793,Rodney Atkins,http://www.billboard.com/artist/367148/rodney-atkins,AR2PW0H1187B999012,8255dcad-d889-4b33-8a9c-7419f9e88e54,2qgvmDsc4jrqbAbjq1HGM2,,74007591.0
+794,New Boyz Feat. Chris Brown,http://www.billboard.com/artist/312160/new-boyz,,,,,
 795,Wale Featuring Meek Mill & Rick Ross,http://www.billboard.com/artist/277789/wale,,,2qgvmDsc4jrqbAbjq1HGM2,,
 796,Mindless Behavior Featuring Diggy,,,,2qgvmDsc4jrqbAbjq1HGM2,,
 797,Justin Bieber Duet With Mariah Carey,,,,28ABOA2akZrXN9kQpqwvVg,,
@@ -807,6 +834,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 833,Lil Wayne Featuring John Legend,http://www.billboard.com/artist/307264/lil-wayne,,,55Aa2cqylxrFIXC767Z865,,
 834,Jennifer Lopez Featuring Lil Wayne,http://www.billboard.com/artist/304444/jennifer-lopez,,,4LLpKhyESsyAXpc4laK94U,,
 835,David Guetta Featuring Jennifer Hudson,http://www.billboard.com/artist/300445/david-guetta,,,55Aa2cqylxrFIXC767Z865,,
+836,T-Pain Featuring Joey Galaxy,,,,,,
 837,Tinie Tempah Featuring Wiz Khalifa,http://www.billboard.com/artist/430002/tinie-tempah,,,7H55rcKCfwqkyDFH9wpKM6,,
 838,Game,http://www.billboard.com/artist/1490221/game,,07cc14fb-4784-4a25-804b-2686ed5ef52c,,,
 839,Jason Aldean With Kelly Clarkson,,,,1UTPBmNbXNTittyMJrNkvw,,
@@ -825,6 +853,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 852,Mat Kearney,http://www.billboard.com/artist/309953/mat-kearney,AR4FGSF1187FB528BE,99b72a79-d049-4538-8d90-f3760309409e,2NQEwAVHBNcI0tGMLlWwF1,106092.0,27491554.0
 853,Lil Wayne Featuring Rick Ross,http://www.billboard.com/artist/307264/lil-wayne,,,2NQEwAVHBNcI0tGMLlWwF1,,
 854,"DJ Drama Featuring Fabolous, Roscoe Dash & Wiz Khalifa",http://www.billboard.com/artist/276016/dj-drama,,,1sBkRIssrMs1AbVkOJbc7a,,
+855,Jay-Z & Kanye West Featuring Otis Redding,,,,,,
 856,Enrique Iglesias With Usher Featuring Lil Wayne,,,,6dJeKm76NjfXBNTpHmOhfO,,
 857,Kirk Franklin,http://www.billboard.com/artist/305956/kirk-franklin,AR0OQPL1187B9B549A,3f051668-3294-4a80-a8d2-0451a413c7b3,4akybxRTGHJZ1DXjLhJ1qu,60705.0,3293094.0
 858,Cee Lo Green,http://www.billboard.com/artist/298842/cee-lo-green,,,5nLYd9ST4Cnwy6NHaCxbj8,,174680978.0
@@ -853,6 +882,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 881,Xenia,http://www.billboard.com/artist/277887/xenia,,,7gbmX8SsfjEjxDMzBi1ZOL,,432648469.0
 882,Chris Brown Featuring Justin Bieber,http://www.billboard.com/artist/1486846/chris-brown,,,66lH4jAE7pqPlOlzUKbwA0,,
 883,Jill Scott Featuring Anthony Hamilton,http://www.billboard.com/artist/304613/jill-scott,,,1uNFoZAHBGtllmzznpCI3s,,
+884,Jason Aldean Featuring Ludacris,http://www.billboard.com/artist/304236/jason-aldean,,,,,
 885,Jessie J Featuring B.o.B,http://www.billboard.com/artist/304565/jessie-j,,,1uNFoZAHBGtllmzznpCI3s,,
 886,Shania Twain,http://www.billboard.com/artist/278910/shania-twain,ARUJZFJ1187B9B135F,4c567ed6-8bc9-447a-bbd5-1dce18e4ee81,5e4Dhzv426EvQe3aDb64jL,1062.0,129974.0
 887,Dr. Dre Featuring Eminem & Skylar Grey,http://www.billboard.com/artist/301270/dr-dre,,,5e4Dhzv426EvQe3aDb64jL,,
@@ -865,6 +895,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 894,My Chemical Romance,http://www.billboard.com/artist/311975/my-chemical-romance,ARKR75V1187FB3D4D5,23a03e33-a603-404e-bcbf-2c00159d7067,7FBcuc1gsnv6Y1nwFtNRCb,1270.0,14748659.0
 895,Steven Tyler,http://www.billboard.com/artist/280697/steven-tyler,AR2S5AS1187B9B587C,,32zks9ovi0IExzUd1C7W6o,2623.0,54626.0
 896,Reeve Carney Featuring Bono & The Edge,http://www.billboard.com/artist/364803/reeve-carney,,,32zks9ovi0IExzUd1C7W6o,,
+897,Enrique Iglesias Wtih Usher Featuring Lil Wayne,,,,,,
 898,Nicki Minaj Featuring Drake,http://www.billboard.com/artist/312259/nicki-minaj,,,1HY2Jd0NmPuamShAr6KMms,,
 899,Rick Ross Featuring Lil Wayne Or T.I.,http://www.billboard.com/artist/365033/rick-ross,,,070kGpqtESdDsLb3gdMIyx,,
 900,Glee Cast Featuring Jonathan Groff,,,,3BmGtnKgCSGYIUhmivXKWX,,
@@ -880,6 +911,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 910,Lil Wayne Featuring Cory Gunz,http://www.billboard.com/artist/307264/lil-wayne,,,4utLUGcTvOJFr6aqIJtYWV,,
 911,Glee Cast Featuring Kristin Chenoweth,,,,3ipn9JLAPI5GUEo4y4jcoi,,
 912,Thirty Seconds To Mars,http://www.billboard.com/artist/431915/30-seconds-to-mars,,,0RqtSIYZmd4fiBKVFqyIqD,,2307416.0
+913,Britney Spears Featuring Nicki Minaj & Ke$ha,http://www.billboard.com/artist/297529/britney-spears,,,,,
 914,Pitbull Featuring T-Pain,http://www.billboard.com/artist/1490081/pitbull,,,7H55rcKCfwqkyDFH9wpKM6,,
 915,"Bridgit Mendler, Adam Hicks, Naomi Scott & Hayley Kiyoko",http://www.billboard.com/artist/1485676/bruce-howe,,,2OTfr6S2kuHRYStjt1IkY6,,
 916,Akon,http://www.billboard.com/artist/278247/akon,ARCGJ6U1187FB4D01F,1cc2d151-530c-4bf3-834b-8b6203b7fc5a,0z4gvV4rjIZ9wHck67ucSV,1573.0,3261325.0
@@ -893,6 +925,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 924,Rihanna Featuring Britney Spears,http://www.billboard.com/artist/365068/rihanna,,,0bxx7TwOQ4tGS0SO9egEPB,,
 925,Edward Maya & Vika Jigulina,,,65c20242-cf9a-4178-9a89-055e135e2aa5,5pKCCKE2ajJHZ9KAiaK11H,,318015722.0
 926,Waka Flocka Flame Featuring Roscoe Dash & Wale,http://www.billboard.com/artist/277783/waka-flocka-flame,,,34dZRjYum6vVBGslgYaBtB,,
+927,Far*East Movement Featuring Ryan Tedder,,,,,,
 928,Game Featuring Lil Wayne,http://www.billboard.com/artist/1490221/game,,,34dZRjYum6vVBGslgYaBtB,,
 929,Jennifer Hudson,http://www.billboard.com/artist/304441/jennifer-hudson,ARRIH6E1187B99E434,2e41ae9c-afd2-4f20-8f1e-17281ce9b472,35GL8Cu2GKTcHzKGi75xl5,186521.0,72909049.0
 930,Sugarland,http://www.billboard.com/artist/280944/sugarland,ARFL99B1187B9A2A45,e45692e4-69f6-4493-888b-7ab89d21d0a4,0hYxQe3AK5jBPCr5MumLHD,47953.0,17547055.0
@@ -921,6 +954,8 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 953,The Lonely Island Featuring Akon,http://www.billboard.com/artist/418536/lonely-island,,,1uNFoZAHBGtllmzznpCI3s,,
 954,Dev Featuring The Cataracs,http://www.billboard.com/artist/300833/dev,,,3rWZHrfrsPBxVy692yAIxF,,
 955,Lloyd,http://www.billboard.com/artist/1496550/lloyd,ARGQW6B1187FB4C839,126759e7-ca12-4bb4-884e-eba160e9e406,1Xfmvd48oOhEWkscWyEbh9,1341.0,3181085.0
+956,David Guetta Featuring Rihanna,http://www.billboard.com/artist/300445/david-guetta,,,,,
+957,Kanye West & Jay-Z,,,,,,
 958,Jay Sean Featuring Lil Wayne,http://www.billboard.com/artist/304297/jay-sean,,,55Aa2cqylxrFIXC767Z865,,
 959,Troop 41,http://www.billboard.com/artist/430487/troop-41,ARSGJWR12802FDE6DD,4fbc55bb-61be-4eb7-b4b4-c08c68b4e060,2epZPZ7pPLAho4JLe9UwFd,,360509118.0
 960,Rick Ross Featuring Drake & Chrisette Michele,http://www.billboard.com/artist/365033/rick-ross,,,2epZPZ7pPLAho4JLe9UwFd,,
@@ -928,11 +963,13 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 962,Twista Featuring Chris Brown,http://www.billboard.com/artist/430584/twista,,,0u2FHSq3ln94y5Q57xazwf,,
 963,New Hollow,,,,4NVjldBwjF0DzudAiLvti0,,
 964,Plain White T's,http://www.billboard.com/artist/340471/plain-white-ts,ARXGKVD1187FB54D8F,44cf61b8-5197-448a-b82b-cef6ee89fac5,1g1yxsNVPhMUl9GrMjEb2o,29646.0,16252710.0
+965,Far*East Movement Featuring Cataracs & Dev,,,,,,
 966,Mike Posner,http://www.billboard.com/artist/311215/mike-posner,AREHKZU122E5C4FC81,3f7b5e3e-289a-44d7-95a7-f7ffab7a2bf2,2KsP6tYLJlTBvSUxnwlVWa,453993.0,333687585.0
 967,3 Doors Down,http://www.billboard.com/artist/431895/3-doors-down,ARW1MUW1187FB4D5A1,,2RTUTCvo6onsAnheUk3aL9,108.0,101604.0
 968,The Lonely Island Featuring Nicki Minaj,http://www.billboard.com/artist/278544/alfred-henning,,,2RTUTCvo6onsAnheUk3aL9,,
 969,David Guetta Featuring Kid Cudi,http://www.billboard.com/artist/300445/david-guetta,,,0hCNtLu0JehylgoiP8L4Gh,,
 970,Birdman Featuring Lil Wayne,http://www.billboard.com/artist/286105/birdman,,,26dSoYclwsYLMAKD3tpOr4,,
+971,Ricky Martin Featuring Natalia Jimenez,http://www.billboard.com/artist/365051/ricky-martin,,,,,
 972,Enrique Iglesias Featuring Pitbull,http://www.billboard.com/artist/301773/enrique-iglesias,,,3TVXtAsR1Inumwj472S9r4,,
 973,Yolanda Be Cool & Dcup,http://www.billboard.com/artist/431642/yolanda-be-cool-dcup,,,2IvkS5MXK0vPGnwyJsrEyV,,325985433.0
 974,Rise Against,http://www.billboard.com/artist/365081/rise-against,ARZWK2R1187B98F09F,db008806-16f6-48fc-8521-3d953709689d,6Wr3hh341P84m3EI8qdn9O,6795.0,16252655.0
@@ -975,6 +1012,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1011,YG,,,94c338ff-1985-4429-9dc8-997b61bb5932,0A0FS04o6zMoto8OKPsDwY,496185.0,189792075.0
 1012,Jay Sean Featuring Nicki Minaj,http://www.billboard.com/artist/304297/jay-sean,,,0FWzNDaEu9jdgcYTbcOa4F,,
 1013,Monica,http://www.billboard.com/artist/311759/monica,ARKR0111187B99FD2A,1239d1bc-cc09-43e0-bcd0-374f60346138,6nzxy2wXs6tLgzEtqOkEi2,2005.0,334240.0
+1014,RockMafia,,,,,,
 1015,Kings Of Leon,http://www.billboard.com/artist/305936/kings-leon,,50e6288e-3db5-4253-ae51-5e8738ef2c31,2qk9voo8llSGYcZ6xrBzKx,1246.0,1883403.0
 1016,Usher Featuring will.i.am,http://www.billboard.com/artist/430708/usher,,,7dGJo4pcD2V6oG8kP0tJRR,,
 1017,B.o.B Featuring Rivers Cuomo,http://www.billboard.com/artist/275499/bob,,,085pc2PYOi8bGKj0PNjekA,,
@@ -986,6 +1024,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1023,T.I. Featuring Keri Hilson,http://www.billboard.com/artist/277486/ti,,,1UTPBmNbXNTittyMJrNkvw,,
 1024,Nelly Featuring T-Pain & Akon,http://www.billboard.com/artist/312110/nelly,,,1UTPBmNbXNTittyMJrNkvw,,
 1025,Cali Swag District,http://www.billboard.com/artist/275827/cali-swag-district,ARQQZWK129CDBF0799,4ec3b7d8-efbb-4672-8067-5e72bd8dba3e,1EeArivTpzLNCqubV95255,616002.0,366022944.0
+1026,Auburn Featuring Iyaz,http://www.billboard.com/artist/280204/auburn,,,,,
 1027,A Rocket To The Moon,http://www.billboard.com/artist/275184/rocket-moon,,265bbf0c-301b-415f-a311-98ac1389ad7b,1NU9Em6e8dDo36Js6nEo3t,271581.0,264610607.0
 1028,Shakira Featuring El Cata,http://www.billboard.com/artist/278867/shakira,,,1NU9Em6e8dDo36Js6nEo3t,,
 1029,Travie McCoy Featuring Bruno Mars,http://www.billboard.com/artist/430380/travie-mccoy,,,52aHqEQZ802daFzuMHfcES,,
@@ -1031,6 +1070,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1069,Kanye West Featuring Dwele,http://www.billboard.com/artist/276709/kanye-west,,,6XyY86QOPPrYVGvF9ch6wz,,
 1070,Jay-Z + Mr. Hudson,,,,7x8nK0m0cP2ksQf0mjWdPS,,
 1071,Lil Jon Featuring LMFAO,http://www.billboard.com/artist/307236/lil-jon,,,1yxSLGMDHlW21z4YXirZDS,,
+1072,Eminem Featuring Pink,http://www.billboard.com/artist/301722/eminem,,,,,
 1073,Eminem Featuring Kobe,http://www.billboard.com/artist/301722/eminem,,,5YGY8feqx7naU7z4HrwZM6,,
 1074,"Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne",http://www.billboard.com/artist/305797/kevin-rudolf,,,4OBJLual30L7gRl5UkeRcT,,
 1075,Lil Jon Featuring 3OH!3,http://www.billboard.com/artist/307236/lil-jon,,,1HY2Jd0NmPuamShAr6KMms,,
@@ -1043,6 +1083,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1082,Christina Aguilera Featuring Nicki Minaj,http://www.billboard.com/artist/299251/christina-aguilera,,,6nzxy2wXs6tLgzEtqOkEi2,,
 1083,Usher Featuring Plies,http://www.billboard.com/artist/430708/usher,,,1yxSLGMDHlW21z4YXirZDS,,
 1084,Lee DeWyze,http://www.billboard.com/artist/306820/lee-dewyze,,4332dade-7c41-4e97-a602-fc0dc4c3ccc2,1KNNZV9twnpQBqyUoGvWA6,,356767680.0
+1085,Lee DeWyze & Crystal Bowersox,,,,,,
 1086,Taio Cruz Featuring Ke$ha,http://www.billboard.com/artist/277535/taio-cruz,,,0a1gHP0HAqALbEyxaD5Ngn,,
 1087,Young Money,http://www.billboard.com/artist/431686/young-money,ARFNQBX122BCFCC40F,1475e497-d820-44e7-afab-d80d74277501,5OrB6Jhhrl9y2PK0pSV4VP,396036.0,79349660.0
 1088,Trey Songz Featuring Fabolous,http://www.billboard.com/artist/430421/trey-songz,,,5OrB6Jhhrl9y2PK0pSV4VP,,
@@ -1062,19 +1103,29 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1102,Lil Wayne Featuring Eminem,http://www.billboard.com/artist/307264/lil-wayne,,,2zwHaEmXxX6DTv4i8ajNCM,,
 1103,Spose,http://www.billboard.com/artist/280217/spose,ARZYVJO12772119B63,f4d4b515-0b74-423f-a161-db184330c37c,3tM6SwRysCaIK0kW4h0mVP,,278375076.0
 1104,Maxwell,http://www.billboard.com/artist/310195/maxwell,AROUKRB1187FB52CED,4d7304f6-7fe3-4959-9d98-01a5af84afe6,2AOt5htsbtyaHd5Eq3kl3j,49952.0,486768.0
+1105,B.o.B Featuring Eminem & Haley Williams,http://www.billboard.com/artist/275499/bob,,,,,
 1106,David Guetta Featuring Akon,http://www.billboard.com/artist/300445/david-guetta,,,70BYFdaZbEKbeauJ670ysI,,
 1107,Blake Shelton Featuring Trace Adkins,http://www.billboard.com/artist/289793/blake-shelton,,,3BmGtnKgCSGYIUhmivXKWX,,
 1108,Glee Cast Featuring Olivia Newton-John,,,,3BmGtnKgCSGYIUhmivXKWX,,
 1109,Theory Of A Deadman,http://www.billboard.com/artist/419497/theory-deadman,,8876c0be-ccff-4d46-aa91-7f935a3b3b6b,74eX4C98E4FCrAMl39qRsJ,60924.0,16169450.0
 1110,Breaking Benjamin,http://www.billboard.com/artist/297098/breaking-benjamin,ARYIIMH1187FB3EFE2,21e3292e-dac8-4609-b57d-402f926aa41f,5BtHciL0e0zOP7prIHn3pP,33313.0,3299379.0
+1111,Mike Posner Featuring Big Sean,http://www.billboard.com/artist/311215/mike-posner,,,,,
+1112,"Glee Cast Featuring Lea Michele, Jonathan Groff, Cory Monteith, Chris Colfer & Amber Riley",,,,,,
 1113,The-Dream,http://www.billboard.com/artist/419475/dream,ARSA4701187FB571FF,126759e7-ca12-4bb4-884e-eba160e9e406,1W3FSF1BLpY3hlVIgvenLz,140173.0,259369321.0
 1114,Alpha Rev,http://www.billboard.com/artist/278711/alpha-rev,,04666cbe-228e-4529-8d95-47be878115d0,5fhX5cgW9CIJ363zTqAP3a,510467.0,130048009.0
+1115,B.o.B Featuring Hayley Williams Of Paramore,http://www.billboard.com/artist/275499/bob,,,,,
 1116,Orianthi,http://www.billboard.com/artist/316939/orianthi,AR1MGGD1187FB48E4C,227ef2cc-abc5-4fd3-90d4-4e53fab571ac,0yNy8fi1yBBq526E6mx4Zs,90717.0,253190707.0
 1117,Lifehouse,http://www.billboard.com/artist/307174/lifehouse,ARUTEVU1187B9ACAF9,854a1807-025b-42a8-ba8c-2a39717f1d25,5PokPZn11xzZXyXSfnvIM3,10921.0,3447393.0
 1118,B.o.B Featuring T.I. & Playboy Tre,http://www.billboard.com/artist/275499/bob,,,5PokPZn11xzZXyXSfnvIM3,,
+1119,Glee Cast Featuring Lea Michele & Cory Monteith,,,,,,
 1120,Gucci Mane,http://www.billboard.com/artist/303227/gucci-mane,ARV6Z5I1187B9A22A8,c0cc5d77-937d-4296-a349-0a09d733fbfb,13y7CgLHjMVRMDqxdx0Xdo,92799.0,62374520.0
+1121,"Glee Cast Feat. Matthew Morrison, Jayma Mayes, Naya Rivera, Cory Monteith & Lea Michele",,,,,,
+1122,Glee Cast Featuring Chris Colfer & Amber Riley,,,,,,
+1123,Glee Cast Featuring Lea Michele,,,,,,
 1124,Mary J. Blige,http://www.billboard.com/artist/309851/mary-j-blige,AR5DC8S1187B9958BE,eecc97ff-11cb-424e-b37e-b00b17adb86b,1XkoF8ryArs86LZvFOkbyr,43.0,1392280.0
 1125,Waka Flocka Flame,http://www.billboard.com/artist/277783/waka-flocka-flame,,,1XkoF8ryArs86LZvFOkbyr,505834.0,
+1126,Glee Cast Featuring Jonathan Groff & Lea Michele,,,,,,
+1127,"Glee Cast Featuring Lea Michele, Cory Monteith & Amber Riley",,,,,,
 1128,Roscoe Dash Featuring Soulja Boy Tell'em,http://www.billboard.com/artist/368933/roscoe-dash,,,06HL4z0CvFAxyc27GXpf02,,
 1129,Jay-Z + Swizz Beatz,,,,1w5Kfo2jwwIPruYS2UWh56,,
 1130,New Boyz Featuring Ray J,http://www.billboard.com/artist/312160/new-boyz,,,5tKXB9uuebKE34yowVaU3C,,
@@ -1094,7 +1145,9 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1144,Phoenix,http://www.billboard.com/artist/335528/phoenix,ARYJSHW1187FB407A3,50e6288e-3db5-4253-ae51-5e8738ef2c31,1xU878Z1QtBldR7ru9owdU,8814.0,5500360.0
 1145,Boys Like Girls Featuring Taylor Swift,http://www.billboard.com/artist/297036/boys-girls,,,1xU878Z1QtBldR7ru9owdU,,
 1146,Sam Adams,http://www.billboard.com/artist/277942/sam-adams,,85823097-9e6c-4876-a04a-8a761a477992,7FY5V3XMwlNBPitEjXowHQ,502777.0,218144943.0
+1147,Three 6 Mafia Vs. Tiesto With Sean Kingston & Flo Rida,,,,,,
 1148,Mario,http://www.billboard.com/artist/309462/mario,AR9BS5O1187FB5432D,75a72702-a5ef-4513-bca5-c5b944903546,20s0P9QLxGqKuCsGwFsp7w,3850.0,3849133.0
+1149,Artists For Haiti,,,,,,
 1150,Danny Gokey,http://www.billboard.com/artist/300247/danny-gokey,ARXMJMO11FED0C4415,0fa06365-1a08-4ea8-b522-01b24f26eac1,5Yu3b48Y29bZlI1cLPOZJz,498960.0,305373242.0
 1151,3OH!3 Featuring Neon Hitch,http://www.billboard.com/artist/431924/3oh3,,,4Lx6vXwzxcAQy3PcyTzkxk,,
 1152,Pitbull Featuring Akon,http://www.billboard.com/artist/1490081/pitbull,,,4Lx6vXwzxcAQy3PcyTzkxk,,
@@ -1104,28 +1157,43 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1156,Creed,http://www.billboard.com/artist/299751/creed,,c5eb9407-caeb-4303-b383-6929aa94021c,43sZBwHjahUvgbx1WNIkIz,35588.0,2861519.0
 1157,Kellie Pickler,http://www.billboard.com/artist/305678/kellie-pickler,AR23BO81187FB47087,6043a59f-e948-4421-b86b-2259cfd3926c,021hNAnkFIbyFyL97br6NB,83367.0,154185396.0
 1158,Christopher Wilde,http://www.billboard.com/artist/299279/christopher-wilde,,,533HtQP5btWIZcKlHJtEWK,,352492853.0
+1159,k.d. lang,http://www.billboard.com/artist/306260/kd-lang,,,,,
 1160,Birdman Featuring Lil Wayne & Drake,http://www.billboard.com/artist/286105/birdman,,,26dSoYclwsYLMAKD3tpOr4,,
+1161,Christopher Wilde & Anna Margaret,,,,,,
 1162,Mariah Carey Featuring Nicki Minaj,http://www.billboard.com/artist/309388/mariah-carey,,,6deZN1bslXzeGvOLaLMOIF,,
 1163,Chris Brown Featuring Lil Wayne & Swizz Beatz,http://www.billboard.com/artist/1486846/chris-brown,,,7x8nK0m0cP2ksQf0mjWdPS,,
 1164,Gucci Mane Featuring Usher,http://www.billboard.com/artist/303227/gucci-mane,,,55Aa2cqylxrFIXC767Z865,,
 1165,Snow Patrol Featuring Martha Wainwright,http://www.billboard.com/artist/279670/snow-patrol,,,55Aa2cqylxrFIXC767Z865,,
 1166,Cascada,http://www.billboard.com/artist/298770/cascada,ARPD2KK1187B9B8B98,7051cfa2-0d1a-4d03-8e5f-9557cd2e42b4,0N0d3kjwdY2h7UVuTdJGfp,29082.0,27456059.0
+1167,Mary J. Blige & Andrea Bocelli,,,,,,
+1168,Lil Wayne Featuring Gudda,,,,,,
+1169,Justin Timberlake & Matt Morris Featuring Charlie Sexton,,,,,,
 1170,Nick Jonas & The Administration,http://www.billboard.com/artist/312244/nick-jonas-administration,,1fa14a96-c25c-4bb7-b94d-ff453519eab3,6dse9FDodKw65ZQoLjE5F1,,286541773.0
 1171,Lil Wayne Featuring Shanell AKA SNL,http://www.billboard.com/artist/307264/lil-wayne,,,6dse9FDodKw65ZQoLjE5F1,,
 1172,Shiny Toy Guns,http://www.billboard.com/artist/279128/shiny-toy-guns,ARJT2U41187B989930,216a7b44-3846-494c-93f5-f2d4d9b95b36,6UocZe4AprSYBvmn3J0oqY,,44407359.0
+1173,"Sheryl Crow, Kid Rock & Keith Urban",,,,,,
+1174,"Jay-Z, Bono, The Edge & Rihanna",,,,,,
+1175,Eddie Vedder,http://www.billboard.com/artist/301430/eddie-vedder,,,,,
+1176,Jennifer Hudson Featuring The Roots,http://www.billboard.com/artist/304441/jennifer-hudson,,,,,
 1177,Jason Michael Carroll,http://www.billboard.com/artist/304256/jason-michael-carroll,ARZXLZD11E2835CEA7,d39f9276-32c1-4b84-9389-d77dbc3801ae,6vgqbvuLEUcrg7SB1kRTYE,61141.0,209341333.0
 1178,Three Days Grace,http://www.billboard.com/artist/419567/three-days-grace,AR21FR81187B9AC2AF,67f66c07-6e61-4026-ade5-7e782fad3a5d,2xiIXseIJcq3nG7C8fHeBj,8145.0,1973668.0
 1179,50 Cent Featuring Ne-Yo,http://www.billboard.com/artist/431969/50-cent,,,7bXgB6jMjp9ATFy66eO08Z,,
 1180,Shakira Featuring Lil Wayne,http://www.billboard.com/artist/278867/shakira,,,7bXgB6jMjp9ATFy66eO08Z,,
 1181,Cobra Starship,http://www.billboard.com/artist/299483/cobra-starship,AR1T5VW1187B9B9586,d20c9b30-d59e-4426-b804-82a0e54dbe14,2aYJ5LAta2ScCdfLhKgZOY,29823.0,174835391.0
+1182,Drake Featuring Lil Wayne & Young Jeezy,http://www.billboard.com/artist/301284/drake,,,,,
 1183,Gucci Mane Featuring Plies Or OJ Da Juiceman,http://www.billboard.com/artist/303227/gucci-mane,,,32WkQRZEVKSzVAAYqukAEA,,
 1184,Jesse McCartney Featuring T-Pain,http://www.billboard.com/artist/304536/jesse-mccartney,,,32WkQRZEVKSzVAAYqukAEA,,
+1185,New Boyz Feat. Ray J,http://www.billboard.com/artist/312160/new-boyz,,,,,
 1186,"Jay-Z, Rihanna & Kanye West",,,,2Hjj68yyUPiC0HKEOigcEp,,
 1187,Ester Dean Featuring Chris Brown,http://www.billboard.com/artist/301899/ester-dean,,,2Hjj68yyUPiC0HKEOigcEp,,
 1188,Weezer,http://www.billboard.com/artist/431262/weezer,AR633SY1187B9AC3B9,6c8b9855-ba8b-48f9-ac1d-42167f7f7b18,3jOstUTkEu2JkjvRdBA5Gu,7516.0,115234.0
 1189,Eminem Featuring Dr. Dre,http://www.billboard.com/artist/301722/eminem,,,06HL4z0CvFAxyc27GXpf02,,
 1190,Omarion Featuring Gucci Mane,http://www.billboard.com/artist/312656/omarion,,,55Aa2cqylxrFIXC767Z865,,
+1191,"Glee Cast Featuring Lea Michele, Cory Monteith, Jenna Ushkowitz & Amber Riley",,,,,,
+1192,"Glee Cast Featuring Lea Michele, Cory Monteith, Kevin McHale & Amber Riley",,,,,,
 1193,Chris Brown Featuring Plies,http://www.billboard.com/artist/1486846/chris-brown,,,0RqtSIYZmd4fiBKVFqyIqD,,
+1194,Glee Cast Featuring Amber Riley,,,,,,
+1195,Trey Songz Featruing Fabolous,,,,,,
 1196,Michael Franti & Spearhead Featuring Cherine Anderson,http://www.billboard.com/artist/310757/michael-franti-spearhead,,,6yJCxee7QumYr820xdIsjo,,
 1197,Timbaland Featuring Nelly Furtado & SoShy,http://www.billboard.com/artist/429956/timbaland,,,1d5nqaOa3PXgjrHv7hEQg4,,
 1198,Kenny Chesney With Dave Matthews,,,,1d5nqaOa3PXgjrHv7hEQg4,,
@@ -1134,8 +1202,17 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1201,30 Seconds To Mars,http://www.billboard.com/artist/431915/30-seconds-to-mars,,4ca783b7-5bf7-4348-b494-46680660050f,0u2FHSq3ln94y5Q57xazwf,11565.0,724183583.0
 1202,LeToya Featuring Ludacris,http://www.billboard.com/artist/306758/letoya,,,79FMDwzZQxHgSkIYBl3ODU,,
 1203,Susan Boyle,http://www.billboard.com/artist/281051/susan-boyle,,0717fc0d-6898-47a0-9abb-e697a1c64c3a,1qAuetfG6mhtDgsVIffWQc,467083.0,337320501.0
+1204,Glee Cast Featuring Jenna Ushkowitz,,,,,,
+1205,"Glee Cast Featuring Amber Riley, Kevin McHale, Cory Monteith & Lea Michele",,,,,,
+1206,John Mayer Featuring Taylor Swift,http://www.billboard.com/artist/304974/john-mayer,,,,,
+1207,Lady Gaga Featuring Space Cowboy & Flo Rida,http://www.billboard.com/artist/306341/lady-gaga,,,,,
 1208,Francesca Battistelli,http://www.billboard.com/artist/302340/francesca-battistelli,AR0LIQN11C8A42CB04,879a854f-d65c-4afa-a870-e6682a84b78a,29ywwKkxfoH7iWwNY1UezA,230156.0,280141877.0
 1209,Mario Featuring Gucci Mane & Sean Garrett,http://www.billboard.com/artist/309462/mario,,b54596a0-e89a-4678-b019-e6b53ddb5f8d,1qAuetfG6mhtDgsVIffWQc,,
+1210,Glee Cast Featuring Kevin McHale & Amber Riley,,,,,,
+1211,Glee Cast Featuring Matthew Morrison,,,,,,
+1212,Glee Cast Featuring Cory Monteith,,,,,,
+1213,Glee Cast Featuring Chris Colfer & Lea Michele,,,,,,
+1214,Glee Cast Featuring Matthew Morrison & Lea Michele,,,,,,
 1215,Boys Like Girls,http://www.billboard.com/artist/297036/boys-girls,ARG72Q21187FB36243,2b6b62ee-ff3e-41a4-90b5-3a29f17bfc84,0vWCyXMrrvMlCcepuOJaGI,,216425159.0
 1216,Cobra Starship Featuring Leighton Meester,http://www.billboard.com/artist/299483/cobra-starship,,,0vWCyXMrrvMlCcepuOJaGI,,
 1217,Drake Featuring Trey Songz & Lil Wayne,http://www.billboard.com/artist/301284/drake,,,1uNFoZAHBGtllmzznpCI3s,,
@@ -1149,6 +1226,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1225,Pleasure P,http://www.billboard.com/artist/342296/pleasure-p,,7304c273-118e-4a61-a07a-1174bf659667,6dROiL44pIQZVNZ6Bc0OJO,,286634235.0
 1226,Chamillionaire,http://www.billboard.com/artist/298913/chamillionaire,,4036bf23-2b69-4be9-a285-e89677ab49bb,6vdMPayKk8YJxxeNP5oMCb,26363.0,21807249.0
 1227,New Boyz,http://www.billboard.com/artist/312160/new-boyz,AROJHBE123E29C2453,2d79c678-e9e6-4456-a941-8ca436747a43,1ZKqrja0WvbSssYNFO3lzs,,318083238.0
+1228,Glee Cast Featuring Mark Salling,,,,,,
 1229,Keri Hilson Featuring Kanye West & Ne-Yo,http://www.billboard.com/artist/305751/keri-hilson,,,1yxSLGMDHlW21z4YXirZDS,,
 1230,Trey Songz Featuring Gucci Mane & Soulja Boy Tell'em,http://www.billboard.com/artist/430421/trey-songz,,,3aQeKQSyrW4qWr35idm0cy,,
 1231,Brooks & Dunn Featuring Billy Gibbons,http://www.billboard.com/artist/297731/brooks-dunn,,,3aQeKQSyrW4qWr35idm0cy,,
@@ -1157,6 +1235,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1234,Dorrough,http://www.billboard.com/artist/301213/dorrough,ARSZFMP13A4B3FFDFC,1475e497-d820-44e7-afab-d80d74277501,5T1nH9CJU9w2xnvN77xDe5,,311358090.0
 1235,Darryl Worley,http://www.billboard.com/artist/300331/darryl-worley,AR5OB9M1187FB52F29,5dca4d22-d6c8-4e70-8ca1-4543e43353c7,4zIBkSJcqRp4ADuFI94WvO,,3444891.0
 1236,Alice In Chains,http://www.billboard.com/artist/278597/alice-chains,,4ca783b7-5bf7-4348-b494-46680660050f,64tNsm6TnZe2zpcMVMOoHL,49991.0,462221.0
+1237,Keyshia Cole Duet With Monica,,,,,,
 1238,The All-American Rejects,http://www.billboard.com/artist/379327/all-american-rejects,ARR1R5V1187FB4D234,b267ca80-034e-4dc1-9ed4-ec45f1fed41d,3vAaWhdBR38Q02ohXqaNHT,8955.0,3447642.0
 1239,Kid Cudi Featuring Kanye West & Common,http://www.billboard.com/artist/305822/kid-cudi,,,6XpaIBNiVzIetEPCWDvAFP,,
 1240,David Cook,http://www.billboard.com/artist/300419/david-cook,ARFN2TE11A348EFFB4,531ae81a-19c3-4b0f-8d56-bc3e235f0b94,4SQxI8xg6LcSWL3KuGVHLa,209642.0,42753230.0
@@ -1165,6 +1244,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1243,Parachute,http://www.billboard.com/artist/324414/parachute,ARHSLRV122BCFCC6A4,72974ba0-7153-4395-a170-17daacdd3723,2PCUhxD40qlMqsKHjTZD2e,155157.0,308029006.0
 1244,Three 6 Mafia Featuring Kalenna,http://www.billboard.com/artist/419565/three-6-mafia,,,2PCUhxD40qlMqsKHjTZD2e,,
 1245,Twista Featuring Erika Shevon,http://www.billboard.com/artist/430584/twista,,,2PCUhxD40qlMqsKHjTZD2e,,
+1246,Gucci Mane Featuring Plies,http://www.billboard.com/artist/303227/gucci-mane,,,,,
 1247,Wale Featuring Lady Gaga,http://www.billboard.com/artist/277789/wale,,,26dSoYclwsYLMAKD3tpOr4,,
 1248,Skillet,http://www.billboard.com/artist/279527/skillet,,,49bzE5vRBRIota4qeHtQM8,,1750802.0
 1249,Jessie James,http://www.billboard.com/artist/304566/jessie-james,,16e48006-e1ae-49fb-9a3c-eb08996b5e37,2oPXxg1IOzTBPDro5cJBJj,,279397258.0
@@ -1172,11 +1252,13 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1251,The Pussycat Dolls Featuring Nicole Scherzinger,http://www.billboard.com/artist/418902/pussycat-dolls,,,6S2OmqARrzebs0tKUEyXyp,,
 1252,David Guetta Featuring Kelly Rowland,http://www.billboard.com/artist/300445/david-guetta,,,70BYFdaZbEKbeauJ670ysI,,
 1253,Michael Franti & Spearhead,http://www.billboard.com/artist/310757/michael-franti-spearhead,,,1mHuZMOP8FG5ip4yAb1vrB,15634.0,337362970.0
+1254,Drake Featuring Trey Songz,http://www.billboard.com/artist/301284/drake,,,,,
 1255,Matt & Kim,http://www.billboard.com/artist/309989/matt-kim,ARZX9XW1187FB47DF0,1bbf31dc-dbc0-4a7a-bf3f-48bc665878e1,,165282.0,
 1256,Carolina Liar,http://www.billboard.com/artist/298740/carolina-liar,ARLVXX4119B8669A2E,6a2fa46e-1be4-42f3-8a0d-58b16ae8ba42,0OuSnRyi1OkLPkR4AqzJwi,316702.0,274555299.0
 1257,The Ting Tings,http://www.billboard.com/artist/419296/ting-tings,ARLBTH21187FB53191,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,2wvUfjKGoXvcnDHq7GgMOa,153504.0,272194824.0
 1258,Madonna,http://www.billboard.com/artist/308786/madonna,ARBEOHF1187B9B044D,b202beb7-99bd-47e7-8b72-195c8d72ebdd,6tbjWDEIzxoDsBA1FuhfPW,6051.0,20044.0
 1259,Kristinia DeBarge,http://www.billboard.com/artist/306127/kristinia-debarge,,48fbfb0b-92ee-45eb-99c2-0bde4c05962e,5Z22vlK4DCgDrQgBEqfc8w,,310238369.0
+1260,"Jamie Foxx Featuring Drake, Kanye West & The-Dream",http://www.billboard.com/artist/304140/jamie-foxx,,,,,
 1261,T.I. Featuring Mary J. Blige,http://www.billboard.com/artist/277486/ti,,,5Z22vlK4DCgDrQgBEqfc8w,,
 1262,Jay-Z,http://www.billboard.com/artist/304305/jay-z,ARLGIX31187B9AE9A0,149f91ef-1287-46da-9a8e-87fee02f1471,5wugb0kaq0J6nyQ5Xgd17i,1298.0,
 1263,Twista,http://www.billboard.com/artist/430584/twista,ARSE5NP1187B9B98AB,13bcb2bb-db37-4397-baf5-e0f085be2d64,6vbY3hOaCAhC7VjucswgdS,,745519.0
@@ -1194,13 +1276,16 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1275,Selena Gomez & Demi Lovato,,,,7nU4hB040gTmHm45YYMvqc,,280215834.0
 1276,Alan Jackson,http://www.billboard.com/artist/278315/alan-jackson,AROWH4C1187B9B11CB,1415b94a-ae0d-4918-9100-1943e8227f1b,4mxWe1mtYIYfP040G38yvS,1972.0,16365.0
 1277,Hurricane Chris Featuring SupaSTAAR,http://www.billboard.com/artist/303702/hurricane-chris,,,4mxWe1mtYIYfP040G38yvS,,
+1278,Soulja Boy Tell 'em Featuring Sammie,http://www.billboard.com/artist/279966/soulja-boy-tell-em,,,,,
 1279,The Lonely Island Featuring T-Pain,http://www.billboard.com/artist/418536/lonely-island,,,26dSoYclwsYLMAKD3tpOr4,,
 1280,The Veronicas,http://www.billboard.com/artist/419365/veronicas,AR0FFYE1187FB3B00A,13655113-cd16-4b43-9dca-cadbbf26ee05,1dIdBZaaHRW2bDTkHNfWln,22842.0,74214491.0
 1281,Gorilla Zoe,http://www.billboard.com/artist/303028/gorilla-zoe,,e34e41f2-f480-45d3-8190-a3ce5ab34fab,3Y365ZqTf6fJ4ZcRnLKPGt,,252759624.0
 1282,T.I. Featuring Justin Timberlake,http://www.billboard.com/artist/277486/ti,,,3Y365ZqTf6fJ4ZcRnLKPGt,,
 1283,All Time Low,http://www.billboard.com/artist/278659/all-time-low,ARJV0U41187B9AB715,2b6b62ee-ff3e-41a4-90b5-3a29f17bfc84,46gyXjRIvN1NL1eCB8GBxo,66279.0,167375968.0
+1284,Fast Life Yungstaz (F.L.Y.),,,,,,
 1285,Jesse McCartney Featuring Ludacris,http://www.billboard.com/artist/304536/jesse-mccartney,,,7dGJo4pcD2V6oG8kP0tJRR,,
 1286,Madcon,http://www.billboard.com/artist/308746/madcon,ARNOG4Q1187B9A5A62,3c32370c-0b54-425e-86f0-fa23c9696623,7dGJo4pcD2V6oG8kP0tJRR,169499.0,104622499.0
+1287,Hurricane Chris Featuring Superstarr,http://www.billboard.com/artist/303702/hurricane-chris,,,,,
 1288,Kevin Rudolf Featuring Rick Ross,http://www.billboard.com/artist/305797/kevin-rudolf,,,6vgqbvuLEUcrg7SB1kRTYE,,
 1289,Mitchel Musso,http://www.billboard.com/artist/311557/mitchel-musso,,79e1bb77-fd8b-42ab-8043-892af5370f0b,3IcF2f5vEkY6HPQfLlQDlw,,209971522.0
 1290,Musiq Soulchild,http://www.billboard.com/artist/311959/musiq-soulchild,AROLBBV13A4B400158,01872118-3238-4f46-a849-26a0901a0da7,3UVRliakQfa1pMWIsNuiZ8,50622.0,81742435.0
@@ -1215,6 +1300,8 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1299,Keri Hilson Featuring Lil Wayne,http://www.billboard.com/artist/305751/keri-hilson,,,7dGJo4pcD2V6oG8kP0tJRR,,
 1300,Rick Ross Featuring John Legend,http://www.billboard.com/artist/365033/rick-ross,,,21E3waRsmPlU7jZsS13rcj,,
 1301,Paula Abdul,http://www.billboard.com/artist/328428/paula-abdul,AROKXVO1187FB4D0E9,,4PpmBoqphQusNFsxuVKb6j,,523909.0
+1302,A R Rahman & The Pussycat Dolls Featuring Nicole Scherzinger,,,,,,
+1303,Chrisette Michele,http://www.billboard.com/artist/299233/chrisette-michele,,,,,
 1304,GS Boyz,http://www.billboard.com/artist/276249/gs-boyz,ARIZIXR11F94B58511,2c311e1d-5da3-4ffb-a46e-572981b5849f,4PpmBoqphQusNFsxuVKb6j,282622.0,302184113.0
 1305,Bow Wow Featuring Johnta Austin,http://www.billboard.com/artist/297014/bow-wow,,,4PpmBoqphQusNFsxuVKb6j,,
 1306,"Eminem, Dr. Dre & 50 Cent",,,,,,111051.0
@@ -1225,6 +1312,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1311,Kevin Rudolf Featuring Lil Wayne,http://www.billboard.com/artist/305797/kevin-rudolf,,,7o95ZoZt5ZYn31e9z1Hc0a,,
 1312,The White Tie Affair,http://www.billboard.com/artist/419423/white-tie-affair,ARJI1B41187FB57AC1,9029a65d-0eff-48fd-a147-307d3af802b7,4lmpEOYpB8yNe8buBDP5vF,,273843876.0
 1313,Miley Cyrus & Billy Ray Cyrus,,,,,,137057909.0
+1314,"Rick Ross Featuring Kanye West, T-Pain, Lil' Wayne",http://www.billboard.com/artist/365033/rick-ross,,,,,
 1315,DAY26 Featuring P. Diddy & Yung Joc,http://www.billboard.com/artist/300542/day26,,,6roFdX1y5BYSbp60OTJWMd,,
 1316,Ne-Yo Featuring Jamie Foxx & Fabolous,http://www.billboard.com/artist/312075/ne-yo,,,6roFdX1y5BYSbp60OTJWMd,,
 1317,John Rich,http://www.billboard.com/artist/305007/john-rich,AROLNUG1187FB59953,,51THHWH97iA2ISvNxUn6Gs,,173419.0
@@ -1251,11 +1339,14 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1338,Jim Jones & Ron Browz Featuring Juelz Santana,,,,7x8nK0m0cP2ksQf0mjWdPS,,
 1339,Akon Featuring Lil Wayne & Young Jeezy,http://www.billboard.com/artist/278247/akon,,,7gOdHgIoIKoe4i9Tta6qdD,,
 1340,Ludacris Co-Starring T-Pain,,,,4yBK75WVCQXej1p04GWqxH,,
+1341,M.I.A. & A R Rahman,,,,,,
 1342,Flo Rida Featuring Ke$ha,http://www.billboard.com/artist/302239/flo-rida,,,5pKCCKE2ajJHZ9KAiaK11H,,
+1343,Bobby Valentino Featuring Yung Joc,,,,,,
 1344,Coldplay With Jay-Z,,,,3q7HBObVc0L8jNeTe5Gofh,,
 1345,Young Jeezy Featuring Nas,http://www.billboard.com/artist/431677/young-jeezy,,,3q7HBObVc0L8jNeTe5Gofh,,
 1346,Spectacular! Cast,,,94f4c61e-5cf3-4cba-ab3e-9bd5be99f6ab,6LXsctaxlamY9VuhxWlFH1,,295465953.0
 1347,T-Pain Featuring Ludacris,http://www.billboard.com/artist/277474/t-pain,,,6LXsctaxlamY9VuhxWlFH1,,
+1348,A.R. Rahman & The Pussycat Dolls Featuring Nicole Scherzinger,,,,,,
 1349,Musiq Soulchild Featuring Mary J. Blige,,,,6S2OmqARrzebs0tKUEyXyp,,
 1350,Plies Featuring Chris J,http://www.billboard.com/artist/342441/plies,,,6S2OmqARrzebs0tKUEyXyp,,
 1351,The Offspring,http://www.billboard.com/artist/418755/offspring,ARP28RX1187B9AF6C4,,5LfGQac0EIXyAN8aUwmNAQ,80079.0,2820865.0
@@ -1293,12 +1384,14 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1383,Slim Featuring Yung Joc,http://www.billboard.com/artist/1496888/slim,,,26dSoYclwsYLMAKD3tpOr4,,
 1384,M.I.A.,http://www.billboard.com/artist/276832/mia,ARDDMYP1187B9B8AE4,b202beb7-99bd-47e7-8b72-195c8d72ebdd,0QJIPDAEDILuo8AIq3pMuU,,14677454.0
 1385,Ludacris Co-Starring Lil Wayne,,,,3aQeKQSyrW4qWr35idm0cy,,
+1386,Akon Featuring Lil Wayne,http://www.billboard.com/artist/278247/akon,,,,,
 1387,Guns N' Roses,http://www.billboard.com/artist/303248/guns-n-roses,ARM7EDF1187B9B3FA1,678d88b2-87b0-403b-b63d-5da7465aecc3,3qm84nBOXUEQ2vnTfUTTFC,678.0,106621.0
 1388,Ludacris Co-Starring Chris Brown & Sean Garrett,,,,3qm84nBOXUEQ2vnTfUTTFC,,
 1389,Jimmy Wayne,http://www.billboard.com/artist/304728/jimmy-wayne,ARTZ90C1187FB55D81,6ac6645e-5ba7-4ada-8ea5-e59e9e9ebeb8,60h3lZFY2T93K7qxVPrajf,4945.0,3447092.0
 1390,Jack White & Alicia Keys,,,d15721d8-56b4-453d-b506-fc915b14cba2,13YmWQJFwgZrd4bf5IjMY4,,826980.0
 1391,Bucky Covington,http://www.billboard.com/artist/298485/bucky-covington,AR4VPCC1187FB3EA01,f24df11a-7e35-4979-a4db-a3b2a170ce27,5sVu3ObJTpiln7yRQkMuje,,154185300.0
 1392,Ace Hood Featuring Trey Songz,http://www.billboard.com/artist/277937/ace-hood,,,5sVu3ObJTpiln7yRQkMuje,,
+1393,Pleasure P.,,,,,,
 1394,Kid Rock,http://www.billboard.com/artist/305827/kid-rock,AR4JOEZ1187B9AE99A,3afa378a-4a7f-46f5-b686-f41ee2287c0c,7dOBabd5O4CvKrg4iriHTM,40985.0,252399.0
 1395,Akon & Sweet Rush,,,,,,3261325.0
 1396,Flo Rida Featuring will.i.am,http://www.billboard.com/artist/302239/flo-rida,,,06HL4z0CvFAxyc27GXpf02,,
@@ -1309,15 +1402,19 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1401,High School Musical 3 Cast,http://www.billboard.com/artist/303505/high-school-musical-3-cast,,,,,
 1402,Metallica,http://www.billboard.com/artist/310639/metallica,ART5MUE1187B98C961,448579df-6b71-4c98-a8ba-5f8be40f2b90,2ye2Wgw4gimLv2eAKyk1NB,27920.0,3996865.0
 1403,Mike Jones Featuring Trey Songz & Twista,http://www.billboard.com/artist/311188/mike-jones,,,6deZN1bslXzeGvOLaLMOIF,,
+1404,Zac Efron & Vanessa Hudgens,,,,,,
 1405,Nelly Featuring Ashanti & Akon,http://www.billboard.com/artist/312110/nelly,,,7vXwfZyDp3spzIVNXDaTPN,,
 1406,Chuck Wicks,http://www.billboard.com/artist/299311/chuck-wicks,ARPTC8L119B340323E,dbf94c49-0dd9-4f72-85d5-f548beb453f6,696fbyLHSMBSYjDrDU5yiK,154986.0,262143354.0
 1407,Young Jeezy Featuring Kanye West,http://www.billboard.com/artist/431677/young-jeezy,,,696fbyLHSMBSYjDrDU5yiK,,
 1408,Heidi Newfield,http://www.billboard.com/artist/303411/heidi-newfield,ARMHC3P11C8A421B01,,6Jb5H8o9T7c4C13vLFpyPY,,260181017.0
+1409,"Mike Jones Featuring Trey Songz, Lil Wayne & Twista",http://www.billboard.com/artist/311188/mike-jones,,,,,
 1410,September,http://www.billboard.com/artist/278654/september,ARNEHRO1187FB4B0C6,,6VX2R9L0O0d6qPvqGuIH7b,31478.0,68025300.0
 1411,Ray LaMontagne,http://www.billboard.com/artist/364681/ray-lamontagne,AR90WS41187FB3F064,18c84a19-adf1-4143-8431-42d564c47f28,6DoH7ywD5BcQvjloe9OcIj,13867.0,21917595.0
 1412,Keith Anderson,http://www.billboard.com/artist/305633/keith-anderson,ARPJ41Z1187B989CE7,a2eec222-7e07-4dd5-a0e3-f1484b79954a,4AgQTHagFdBq8VL791lSXz,100295.0,15189114.0
 1413,Yung Berg Featuring Casha,,,,4UXqAaa6dQYAk18Lv7PEgX,,
+1414,Plies Featuring Jamie Foxx & The-Dream,http://www.billboard.com/artist/342441/plies,,,,,
 1415,Oasis,http://www.billboard.com/artist/277052/oasis,ARBUOOR1187B997391,6fe07aa5-fec0-4eca-a456-f29bff451b04,2DaxqgrOhkeH0fpeiQq2f4,8329.0,512633.0
+1416,"DJ Khaled Feat. Akon, Plies, Young Jeezy, Rick Ross, Ace Hood, Trick Daddy & Lil' Boosie",http://www.billboard.com/artist/299939/dj-khaled,,,,,
 1417,Ciara Featuring T-Pain,http://www.billboard.com/artist/299324/ciara,,,4SQxI8xg6LcSWL3KuGVHLa,,
 1418,LL Cool J Featuring The-Dream,http://www.billboard.com/artist/276751/ll-cool-j,,,06HL4z0CvFAxyc27GXpf02,,
 1419,David Banner Featuring Chris Brown,http://www.billboard.com/artist/300400/david-banner,,,55Aa2cqylxrFIXC767Z865,,
@@ -1327,6 +1424,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1423,Rick Ross Featuring Nelly & Avery Storm,http://www.billboard.com/artist/365033/rick-ross,,,3A5urS1Gh3qwxSvQgCx9ow,,
 1424,Gym Class Heroes Featuring The-Dream,http://www.billboard.com/artist/303282/gym-class-heroes,,,74XFHRwlV6OrjEM0A2NCMF,,
 1425,Demi Lovato Featuring Jonas Brothers,http://www.billboard.com/artist/300744/demi-lovato,,,74XFHRwlV6OrjEM0A2NCMF,,
+1426,Lil Wayne Featuring Bobby Valentino,,,,,,
 1427,Lil Wayne Featuring Static Major,http://www.billboard.com/artist/307264/lil-wayne,,,74XFHRwlV6OrjEM0A2NCMF,,
 1428,Artists Stand Up To Cancer,http://www.billboard.com/artist/280021/artists-stand-cancer,,494e8d09-f85b-4543-892f-a5096aed1cd4,5UHeeAHp48bScX1RfoUt8m,,289089107.0
 1429,Joshua Radin,http://www.billboard.com/artist/305256/joshua-radin,ARPCRYQ1187FB4ECB8,c3f28da8-662d-4f09-bdc7-3084bf685930,7omzannyG2lfDqP5xyZo34,55470.0,22468685.0
@@ -1353,8 +1451,10 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1450,Jessica Simpson,http://www.billboard.com/artist/304557/jessica-simpson,ARN7POH1187B9B301E,d339efbb-77b9-4147-ba9e-59f2f24550b2,2tFN9ubMXEhdAQvdQxcsma,35805.0,632051.0
 1451,Usher Featuring Young Jeezy,http://www.billboard.com/artist/430708/usher,,,6aZyMrc4doVtZyKNilOmwu,,
 1452,Shwayze Featuring Cisco Adler,http://www.billboard.com/artist/279233/shwayze,,,4yBK75WVCQXej1p04GWqxH,,
+1453,Madonna Featuring Justin Timberlake,http://www.billboard.com/artist/308786/madonna,,,,,
 1454,Demi Lovato & Joe Jonas,http://www.billboard.com/artist/280506/stephen-glass,,78a4c050-c724-45a6-b98a-d05ae56c63e3,,,280215821.0
 1455,Flex,http://www.billboard.com/artist/1496719/flex,,10cd00bb-f5bf-4bfd-b798-433672d9738f,13VwGEitoK8J0qjNjbgeTN,59690.0,554327967.0
+1456,Ray J & Yung Berg,,,,,,
 1457,Flo Rida Featuring T-Pain,http://www.billboard.com/artist/302239/flo-rida,,,3grHWM9bx2E9vwJCdlRv9O,,
 1458,Josh Gracin,http://www.billboard.com/artist/305236/josh-gracin,ARJ49781187B9A2597,2294c553-58e4-425b-8bab-bee01f2d477a,1456WwI15Lm9CktCzkLZvm,,5835257.0
 1459,Meryl Streep,http://www.billboard.com/artist/310603/meryl-streep,,7f378f19-4686-41aa-b83e-3df359ae1578,2HB65P72dFRiOKvbLLcil2,2256.0,3829558.0
@@ -1365,6 +1465,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1464,The Game Featuring Keyshia Cole,http://www.billboard.com/artist/1490221/game,,,7x8nK0m0cP2ksQf0mjWdPS,,
 1465,Nelly Featuring Ciara & JD,http://www.billboard.com/artist/312110/nelly,,,1vfezMIyCr4XUdYRaKIKi3,,
 1466,Julianne Hough,http://www.billboard.com/artist/305379/julianne-hough,ARKNV8311C8A41502D,6e0ae159-8449-4262-bba5-18ec87fa529f,4BA9Z6ZV2JBwwLGGoZX7bs,216404.0,255426303.0
+1467,"DJ Khaled Featuring Akon, Rick Ross, Young Jeezy, Lil' Boosie, Trick Daddy, Ace Hood & Pli",http://www.billboard.com/artist/299939/dj-khaled,,,,,
 1468,James Otto,http://www.billboard.com/artist/304124/james-otto,ARRLZZK1187B9A4D91,a77d707e-ab95-4090-a945-cfbfcc04f753,3VStI6m5Ig9FAyUaa0lYAP,4949.0,2556367.0
 1469,Vanessa Hudgens,http://www.billboard.com/artist/277723/vanessa-hudgens,ARCQJYZ11E2835D077,494e8d09-f85b-4543-892f-a5096aed1cd4,6G9bygHlCyPgNGxK2l3YdE,36694.0,187378860.0
 1470,Cast Of Camp Rock,,,,6BaEtrOzEuvmxmHZRR1nNa,,281297301.0
@@ -1375,11 +1476,13 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1475,Death Cab For Cutie,http://www.billboard.com/artist/300613/death-cab-cutie,,6fe07aa5-fec0-4eca-a456-f29bff451b04,0YrtvWJMgSdVrk3SfNjTbx,,5448636.0
 1476,Timbaland Featuring OneRepublic,http://www.billboard.com/artist/429956/timbaland,,,0YrtvWJMgSdVrk3SfNjTbx,,
 1477,Sean Kingston Featuring Elan & Juelz Santana,http://www.billboard.com/artist/278515/sean-kingston,,,5Pwc4xIPtQLFEnJriah9YJ,,
+1478,Nelly Featuring Akon & Ashanti,http://www.billboard.com/artist/312110/nelly,,,,,
 1479,Phil Vassar,http://www.billboard.com/artist/333572/phil-vassar,ARKNOZU1187FB5A371,3dc9c919-508f-4255-b05e-0eed6a28137d,1XhhO2dTs2fKyhILj0aam6,1153.0,18443.0
 1480,Tyga Featuring Travis McCoy,http://www.billboard.com/artist/430631/tyga,,,1XhhO2dTs2fKyhILj0aam6,,
 1481,Josh Turner Featuring Trisha Yearwood,http://www.billboard.com/artist/305248/josh-turner,,,46voK5iyMXDdkDpxDgfj2B,,
 1482,Yael Naim,,ARKKZGP1187B99F0FF,5fcda981-7389-4207-8c8b-ae5cf13a7332,3cHwmcXlo7XvovQcl5YxlQ,,
 1483,Lil Wayne Featuring Juelz Santana & Fabolous,http://www.billboard.com/artist/307264/lil-wayne,,,3TOqt5oJwL9BE2NG9MEwDa,,
+1484,"DJ Laz Featuring Flo Rida, Casely & Pitbull",http://www.billboard.com/artist/299948/dj-laz,,,,,
 1485,Panic At The Disco,http://www.billboard.com/artist/277193/panic-disco,,,,,
 1486,Raheem DeVaughn,http://www.billboard.com/artist/277348/raheem-devaughn,,6f92929a-6381-48ac-b348-83b43b9cf646,59NO6KX7wQCG7jGdtH1NtL,,5781104.0
 1487,Nelly Featuring Fergie,http://www.billboard.com/artist/312110/nelly,,,5PokPZn11xzZXyXSfnvIM3,,
@@ -1390,14 +1493,17 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1492,Finger Eleven,http://www.billboard.com/artist/302137/finger-eleven,AR6BNBY1187B998232,b18bc9c4-6f22-4f1b-a918-e9c86a39fe7a,0niJkG4tKkne3zwr7I8n9n,53488.0,96318432.0
 1493,Kate Voegele,http://www.billboard.com/artist/305553/kate-voegele,ART7Q0O1187B9A79FA,1aff9117-5820-490d-9938-ccad96669292,7whckrkkTMEuvqfaNfMs7S,222657.0,434789970.0
 1494,Cherish Featuring Yung Joc,http://www.billboard.com/artist/299070/cherish,,,4xFUf1FHVy696Q1JQZMTRj,,
+1495,Jason Mraz Featuring Colbie Caillat,http://www.billboard.com/artist/304259/jason-mraz,,,,,
 1496,C-Side Featuring Keyshia Cole,,,,4OBJLual30L7gRl5UkeRcT,,
 1497,Jewel,http://www.billboard.com/artist/304592/jewel,ARW24PI1187B9A6126,99b72a79-d049-4538-8d90-f3760309409e,6FbDoZnMBTdhhhLuJBOOqP,4371.0,163711259.0
+1498,"Webbie, Lil' Phat & Lil' Boosie",,,,,,
 1499,Flo Rida Featuring Timbaland,http://www.billboard.com/artist/302239/flo-rida,,,1W3FSF1BLpY3hlVIgvenLz,,
 1500,Fall Out Boy Featuring John Mayer,http://www.billboard.com/artist/276170/fall-out-boy,,,1W3FSF1BLpY3hlVIgvenLz,,
 1501,Lil Mama Featuring Chris Brown & T-Pain,http://www.billboard.com/artist/307312/lil-mama,,,0hEurMDQu99nJRq8pTxO14,,
 1502,Busta Rhymes Featuring Linkin Park,http://www.billboard.com/artist/298558/busta-rhymes,,,6tbjWDEIzxoDsBA1FuhfPW,,
 1503,Shawty Lo,http://www.billboard.com/artist/279005/shawty-lo,AR9DJ6Q1187B99C0C3,dff0d392-4cd5-4052-9fbb-f485df3891e5,6tbjWDEIzxoDsBA1FuhfPW,141228.0,205297331.0
 1504,Augustana,http://www.billboard.com/artist/280242/augustana,,50549203-9602-451c-b49f-ff031ba8635c,61YE3whKiuRr83j1yOm5M7,,62450480.0
+1505,Usher Featurnig Beyonce & Lil Wayne,,,,,,
 1506,G Unit,http://www.billboard.com/artist/276226/g-unit,,,,236912.0,
 1507,Ashlee Simpson With Tom Higgenson,,,,04gDigrS5kc9YWfZHwBETP,,
 1508,Soulja Boy Tell'em Featuring Arab,http://www.billboard.com/artist/279966/soulja-boy-tell-em,,,4hqDqHtBlgxXpLXVYf7c8L,,
@@ -1407,6 +1513,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1512,Janet,http://www.billboard.com/artist/1496802/janet,,eecc97ff-11cb-424e-b37e-b00b17adb86b,0T5OJgMVjKIX3b3W3ekqOl,,621729711.0
 1513,Kenny Chesney Duet With George Strait,http://www.billboard.com/artist/305717/kenny-chesney,,,4qwGe91Bz9K2T8jXTZ815W,,
 1514,Mariah Carey Featuring T-Pain,http://www.billboard.com/artist/309388/mariah-carey,,,4qwGe91Bz9K2T8jXTZ815W,,
+1515,American Idol Top 8,,,,,,
 1516,Annie Lennox,http://www.billboard.com/artist/279465/annie-lennox,,,,,14000.0
 1517,DAY26,http://www.billboard.com/artist/300542/day26,ARTHSZ7119B8667994,,7dpKVB4mK3ufNdZOpMKtrd,158367.0,273198622.0
 1518,Radiohead,http://www.billboard.com/artist/277326/radiohead,ARH6W4X1187B99274F,b7ffd2af-418f-4be2-bdd1-22f8b48613da,4Z8W4fKeB5YxbusRsdQVPb,304.0,657515.0
@@ -1429,14 +1536,18 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1535,Santana Featuring Chad Kroeger,http://www.billboard.com/artist/278142/santana,,,2iojnBLj0qIMiKPvVhLnsH,,
 1536,Billy Ray Cyrus With Miley Cyrus,,,,7fJYw1vK9yWb8o51I8qHin,,
 1537,Rihanna Featuring Ne-Yo,http://www.billboard.com/artist/365068/rihanna,,,5YGY8feqx7naU7z4HrwZM6,,
+1538,Lil Mama Featuring Chris Brown,http://www.billboard.com/artist/307312/lil-mama,,,,,
 1539,Baby Bash Featuring T-Pain,http://www.billboard.com/artist/275566/baby-bash,,,6GMYJwaziB4ekv1Y6wCDWS,,
 1540,Timbaland Featuring Keri Hilson,,,,3aQeKQSyrW4qWr35idm0cy,,
+1541,Celine Dion & Josh Groban,,,,,,
 1542,Amy Winehouse Featuring Ghostface Killah,http://www.billboard.com/artist/278975/amy-winehouse,,,6B5c4sch27tWHAGdarpPaW,,
 1543,Lenny Kravitz,http://www.billboard.com/artist/306952/lenny-kravitz,ARFA4301187B9AD04A,0bfba3d3-6a04-4779-bb0a-df07df5b0558,5gznATMVO85ZcLTkE9ULU7,119.0,160410.0
 1544,Bow Wow & Omarion,http://www.billboard.com/artist/297016/bow-wow-omarion,,d71c2b20-616a-4bb8-a848-e6edac412c3b,74XFHRwlV6OrjEM0A2NCMF,,1669362.0
+1545,Keyshia Cole Introducing Amina,,,,,,
 1546,The Last Goodnight,http://www.billboard.com/artist/418495/last-goodnight,ARTX3N31187FB57041,0b76f632-25fa-4681-9862-86499c28afd3,4UrGiQXrpB2CmzVGVFtH5E,83829.0,256505827.0
 1547,Michael Jackson With Akon,,,,4UrGiQXrpB2CmzVGVFtH5E,,
 1548,Kanye West Featuring T-Pain,http://www.billboard.com/artist/276709/kanye-west,,,0u2FHSq3ln94y5Q57xazwf,,
+1549,Playaz Circle Featuring Lil Wayne,http://www.billboard.com/artist/341875/playaz-circle,,,,,
 1550,Pitbull Featuring Trina & Young Bo$$,http://www.billboard.com/artist/1490081/pitbull,,,3aQeKQSyrW4qWr35idm0cy,,
 1551,Dragonforce,http://www.billboard.com/artist/301282/dragonforce,,b0fe8ef0-d59b-4d41-afee-2d21b59112ab,2pH3wEn4eYlMMIIQyKPbVR,54576.0,3261249.0
 1552,Good Charlotte,http://www.billboard.com/artist/303007/good-charlotte,ARAN1W01187B9AEA6C,f0e820ab-f31a-400d-9c5e-8be1c8c38726,5aYyPjAsLj7UzANzdupwnS,46790.0,468788.0
@@ -1445,11 +1556,13 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1555,Michael Cera & Ellen Page,,,,1nKS66pZYKmKhx3yICAFwi,142145.0,272967321.0
 1556,Soulja Boy Tell'em Featuring I-15,http://www.billboard.com/artist/279966/soulja-boy-tell-em,,,6deZN1bslXzeGvOLaLMOIF,,
 1557,Fabolous Featuring Jermaine Dupri,http://www.billboard.com/artist/276136/fabolous,,,3BeKHKMrAmeL5GkGQKNiFX,,
+1558,Alvin And The Chipmunks Featuring Chris Classic,http://www.billboard.com/artist/278753/alvin-chipmunks,,,,,
 1559,Celine Dion,http://www.billboard.com/artist/298857/celine-dion,,,3aQeKQSyrW4qWr35idm0cy,,
 1560,Alvin And The Chipmunks,http://www.billboard.com/artist/278753/alvin-chipmunks,ARUPCKH124549A3AF0,d40c09b3-e82b-45a9-8e50-63524858aa95,4MPkNgar5uTd8Sqvrr7par,163050.0,
 1561,Feist,http://www.billboard.com/artist/302065/feist,AR6NRQI1187FB37544,59a7fbcb-ff74-494d-abd0-9c82359040c9,6CWTBjOJK75cTE8Xv8u1kj,251.0,13453308.0
 1562,Landon Pigg,http://www.billboard.com/artist/306431/landon-pigg,ARZL6GS1187B99D11A,8e524351-f985-4c41-81ae-24a6c95f755c,1whjlG0NSaQytgDIWz10GS,,132702944.0
 1563,Chingy Featuring Amerie,http://www.billboard.com/artist/299137/chingy,,,1whjlG0NSaQytgDIWz10GS,,
+1564,Miranda Cosgrove Featuring Drake Bell,http://www.billboard.com/artist/311431/miranda-cosgrove,,,,,
 1565,Justin Timberlake Duet With Beyonce,http://www.billboard.com/artist/1490153/justin-timberlake,,,6vgqbvuLEUcrg7SB1kRTYE,,
 1566,50 Cent Featuring Justin Timberlake & Timbaland,http://www.billboard.com/artist/431969/50-cent,,,7bXgB6jMjp9ATFy66eO08Z,,
 1567,Juanes,http://www.billboard.com/artist/305328/juanes,ARYN2M61187B995BD6,9bacf78f-9132-43da-8873-8a9eb49da0e9,0UWZUmn7sybxMCqrw9tGa7,21305.0,103856.0
@@ -1471,6 +1584,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1583,Fabolous Featuring Ne-Yo,http://www.billboard.com/artist/276136/fabolous,,,2qgvmDsc4jrqbAbjq1HGM2,,
 1584,Kat DeLuna Featuring Elephant Man,http://www.billboard.com/artist/305534/kat-deluna,,,21E3waRsmPlU7jZsS13rcj,,
 1585,Ciara Featuring 50 Cent,http://www.billboard.com/artist/299324/ciara,,,21E3waRsmPlU7jZsS13rcj,,
+1586,Reba McEntire Duet With Kelly Clarkson,,,,,,
 1587,UGK Featuring OutKast,http://www.billboard.com/artist/277582/ugk,,,3q7HBObVc0L8jNeTe5Gofh,,
 1588,Cupid,http://www.billboard.com/artist/299844/cupid,ARAIRUQ1187FB571E5,765b8a8e-d476-4988-ae7b-412850ccf04e,0lax1ZgWclW6mZFaGu27MM,101341.0,25268009.0
 1589,Gym Class Heroes,http://www.billboard.com/artist/303282/gym-class-heroes,ARGMGHN1187B9B4213,57b08602-7ea7-4a6d-a93c-72cb1ae0053c,4IJczjB0fJ04gs4uvP0Fli,18665.0,75949392.0
@@ -1485,10 +1599,17 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1598,Yung Berg Featuring Junior,http://www.billboard.com/artist/431718/yung-berg,,,6GMYJwaziB4ekv1Y6wCDWS,,250111109.0
 1599,Paula DeAnda Featuring Bow Wow,http://www.billboard.com/artist/328431/paula-deanda,,,0hYxQe3AK5jBPCr5MumLHD,,
 1600,High School Musical 2 Cast,http://www.billboard.com/artist/303504/high-school-musical-2-cast,,,52hhXcslVIbJEF3KqBgKIa,,725900047.0
+1601,Zac Efron & Vanessa Anne Hudgens,,,,,,
 1602,Amy Winehouse,http://www.billboard.com/artist/278975/amy-winehouse,ARWD25M1187FB4C563,b7539c32-53e7-4908-bda3-81449c367da6,6Q192DXotxtaysaqNPy5yR,4.0,13125609.0
+1603,Zac Efron/Vanessa Anne Hudgens,,,,,,
 1604,Yung Joc Featuring Gorilla Zoe,http://www.billboard.com/artist/431719/yung-joc,,,6Q192DXotxtaysaqNPy5yR,,
+1605,Tim McGraw With Faith Hill,,,,,,
 1606,Eve,http://www.billboard.com/artist/301945/eve,ARRQISZ120AB960FC9,96003ca6-5c03-4771-8b94-dbdc74949125,4d3yvTptO48nOYTPBcPFZC,9387.0,108709.0
+1607,Zac Efron,http://www.billboard.com/artist/431746/zac-efron,,,,,
 1608,Lil Boosie Featuring Foxx & Webbie,http://www.billboard.com/artist/307274/lil-boosie,,,5sVu3ObJTpiln7yRQkMuje,,
+1609,Corbin Bleu And Lucas Grabeel,,,,,,
+1610,Ashley Tisdale And Lucas Grabeel,,,,,,
+1611,Zac Efron And Vanessa Anne Hudgens,,,,,,
 1612,Tracy Lawrence,http://www.billboard.com/artist/430341/tracy-lawrence,ARII3PL1187FB52DD2,e45692e4-69f6-4493-888b-7ab89d21d0a4,2BQVRw9md4UKcGUrDXABCD,4388.0,150022.0
 1613,The White Stripes,http://www.billboard.com/artist/419422/white-stripes,AR8V1WA1187B9AD9E9,1cc5adcd-1422-4b5c-a3cd-3ecd4f43f506,4F84IBURUo98rz4r61KF70,11443.0,2456318.0
 1614,Lil Mama,http://www.billboard.com/artist/307245/lil-mama,ARWC1XH1187FB4DF01,a3443421-7e59-40d2-bf51-267eac751042,5qK5bOC6wLtuLhG5KvU17c,,216445809.0
@@ -1500,11 +1621,13 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1620,Fergie Featuring Ludacris,http://www.billboard.com/artist/302083/fergie,,,33wbkdcxtduHKY53LnI1Hf,,
 1621,Bone Thugs-N-Harmony Featuring Akon,http://www.billboard.com/artist/296202/bone-thugs-n-harmony,,,33wbkdcxtduHKY53LnI1Hf,,1493325.0
 1622,Bobby Valentino Featuring Timbaland,,,,0z4gvV4rjIZ9wHck67ucSV,,
+1623,Cast Of Hairspray,,,,,,
 1624,Tank,http://www.billboard.com/artist/281539/tank,,76ac0243-204f-4769-bd1e-160bbda66f65,4mwXUEKaW4ftbncf9Hi58l,,
 1625,"DJ Khaled Featuring T.I., Akon, Rick Ross, Fat Joe, Lil' Wayne & Baby",http://www.billboard.com/artist/299939/dj-khaled,,,1By9QBFnjZAoI83BZppHlt,,
 1626,Beyonce & Shakira,,,,6BMhCQJYHxxKAeqYS1p5rY,,
 1627,Bow Wow Featuring T-Pain & Johnta Austin,http://www.billboard.com/artist/297014/bow-wow,,,3aBkeBhwadnWMWoVJ2CxJC,,
 1628,Unk,http://www.billboard.com/artist/277647/unk,,194e87c9-b3fe-4fbd-82a7-8c54b4dd4c76,0PGtMx1bsqoCHCy3MB3gXA,67826.0,186076455.0
+1629,R. Kelly Or Bow Wow (Featuring T.I. & T-Pain),,,,,,
 1630,Paul McCartney,http://www.billboard.com/artist/328389/paul-mccartney,AR9ZLJJ1187FB5BC16,9d1ebcfe-4c15-4d18-95d3-d919898638a1,4STHEaNw4mPZ2tzheohgXB,8452.0,12224.0
 1631,Crime Mob Featuring Lil Scrappy,http://www.billboard.com/artist/299759/crime-mob,,,0z4gvV4rjIZ9wHck67ucSV,,
 1632,Dashboard Confessional,http://www.billboard.com/artist/300349/dashboard-confessional,ARMKNC21187FB4696B,49576e42-fbbd-4d73-968d-93c8dcf7f065,4ERtgeBbWRkFzIz6LaFCeY,1453.0,1798548.0
@@ -1512,12 +1635,18 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1634,The Smashing Pumpkins,http://www.billboard.com/artist/279618/smashing-pumpkins,ARN5NHX1187FB4F755,14d44067-99c2-4f77-b58b-138f0b6911fa,40Yq4vzPs9VNUrIBG5Jr2i,7041.0,534300295.0
 1635,Ozzy Osbourne,http://www.billboard.com/artist/323242/ozzy-osbourne,AR8DTVF1187B9AA292,541f16f5-ad7a-428e-af89-9fa1b16d3c9c,6ZLTlhejhndI4Rh53vYhrY,49984.0,886834.0
 1636,Diddy Featuring Keyshia Cole,http://www.billboard.com/artist/300902/diddy,,,6ZLTlhejhndI4Rh53vYhrY,,
+1637,Gym Class Heroes Featuring Patrick Stump,http://www.billboard.com/artist/303282/gym-class-heroes,,,,,
+1638,Blake Lewis,http://www.billboard.com/artist/289779/blake-lewis,,,,,
 1639,Baby Boy Da Prince Featuring Lil Boosie,,,,2jw70GZXlAI8QzWeY2bgRc,,
 1640,India.Arie,http://www.billboard.com/artist/303778/indiaarie,ARI7RGN1187FB40849,a0525c6f-fe61-4d6b-a4d0-bb6236557858,7Gf3LSwa5hh8Cjo60WhVjC,64.0,92325.0
 1641,Young Jeezy Featuring R. Kelly,http://www.billboard.com/artist/431677/young-jeezy,,,7Gf3LSwa5hh8Cjo60WhVjC,,19627204.0
 1642,Maroon5,http://www.billboard.com/artist/309663/maroon-5,,,,,
+1643,Freak Nasty Featuring Crazy Mike,,,,,,
 1644,Katharine McPhee,http://www.billboard.com/artist/305558/katharine-mcphee,AR9J8V11187FB562B8,,5oWOx0BBDSMoFB8JDrjQre,50721.0,154185410.0
 1645,Three 6 Mafia Featuring Chamillionaire,http://www.billboard.com/artist/419565/three-6-mafia,,,7x8nK0m0cP2ksQf0mjWdPS,,
+1646,"DJ Khaled Featuring T.I. Akon, Rick Ross, Fat Joe. Lil' Wayne & Baby",http://www.billboard.com/artist/299939/dj-khaled,,,,,
+1647,Kelly Clarkson Featuring Jeff Beck,,,,,,
+1648,Josh Groban & The African Children's Choir,,,,,,
 1649,MIKA,http://www.billboard.com/artist/311138/mika,,dacc2d64-7e59-42a8-87a9-10c53919aff2,5MmVJVhhYKQ86izuGHzJYA,,184932871.0
 1650,Paul Wall Featuring Jermaine Dupri,http://www.billboard.com/artist/328415/paul-wall,,,5MmVJVhhYKQ86izuGHzJYA,,
 1651,Lumidee Featuring Tony Sunshine,http://www.billboard.com/artist/308567/lumidee,,,5MmVJVhhYKQ86izuGHzJYA,,
@@ -1526,7 +1655,9 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1654,Joe,http://www.billboard.com/artist/1496519/joe,ARUXAS61187FB52DF1,4995a475-1580-4217-a11b-448711e41910,3zTOe1BtyTkwNvYZOxXktX,3630.0,1652221.0
 1655,Pretty Ricky,http://www.billboard.com/artist/349855/pretty-ricky,ARSQA6U1187B9AEAED,15a5da16-8b89-4047-aefe-81473c97b5b2,6XwcepfAsPhrvwziGxhwju,10766.0,51952056.0
 1656,Rich Boy Featuring Polow Da Don,http://www.billboard.com/artist/364962/rich-boy,,,0zOcE3mg9nS6l3yxt1Y0bK,,75132263.0
+1657,"DJ Khaled Featuring T.I. Akon, Rick Ross, Fat Joe. Lil' Wayne, Baby",http://www.billboard.com/artist/299939/dj-khaled,,,,,
 1658,Omarion,http://www.billboard.com/artist/312656/omarion,AR7GVU91187B99F7E2,1c009a08-74d1-4682-bc56-8bfbe9e66b62,0f5nVCcR06GX8Qikz0COtT,46870.0,15559682.0
+1659,Lloyd Featuring Lil' Wayne,http://www.billboard.com/artist/1496550/lloyd,,,,,
 1660,Blue October,http://www.billboard.com/artist/291864/blue-october,ARDQ62L1187FB56FF0,04591295-6d94-45cb-b6c7-1ae17c6f380e,1TJbmc7jTpw78GKCiMpvDh,32082.0,559128.0
 1661,Young Buck,http://www.billboard.com/artist/431667/young-buck,AR10KZ91187FB43B99,2e80ba15-ec0f-4bd4-b263-7e0671f38255,4pr7J7wzgObkE3DD3Izi7q,826.0,3494663.0
 1662,Fat Joe Featuring Lil Wayne,http://www.billboard.com/artist/302021/fat-joe,,,4pr7J7wzgObkE3DD3Izi7q,,
@@ -1536,6 +1667,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1666,Brandi Carlile,http://www.billboard.com/artist/297066/brandi-carlile,,22c5cef9-80e8-48d2-acd3-6d16f6c8a16d,2sG4zTOLvjKG1PSoOyf5Ej,106095.0,64387579.0
 1667,Chris Brown Featuring Jay Biz,http://www.billboard.com/artist/1486846/chris-brown,,,2sG4zTOLvjKG1PSoOyf5Ej,,
 1668,Bjork,http://www.billboard.com/artist/286810/bj-rk,,,,,
+1669,Timbaland Featuring One Republic,http://www.billboard.com/artist/429956/timbaland,,,,,
 1670,Good Charlotte Featuring M. Shadows And Synyster Gates,,,,2sG4zTOLvjKG1PSoOyf5Ej,,
 1671,Jim Jones,http://www.billboard.com/artist/304639/jim-jones,ART62WC1187FB47E80,,6AMa1VFQ7qCi61tCRtVWXe,94612.0,16668076.0
 1672,Fabolous Featuring Young Jeezy,http://www.billboard.com/artist/276136/fabolous,,,6AMa1VFQ7qCi61tCRtVWXe,,204891.0
@@ -1555,6 +1687,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1686,The Pussycat Dolls Featuring Timbaland,http://www.billboard.com/artist/418902/pussycat-dolls,,,6ktyNEnEukKzskQEiXgCFD,,
 1687,Paula DeAnda Featuring The DEY,http://www.billboard.com/artist/328431/paula-deanda,,,5Y5TRrQiqgUO4S36tzjIRZ,,
 1688,Diddy Featuring Christina Aguilera,http://www.billboard.com/artist/300902/diddy,,,3vAaWhdBR38Q02ohXqaNHT,,
+1689,Korn Featuring Amy Lee,http://www.billboard.com/artist/306042/korn,,,,,
 1690,Snoop Dogg Featuring R. Kelly,http://www.billboard.com/artist/279664/snoop-dogg,,,4am1I89OWXUzFh4ctRLkdd,,21769.0
 1691,Bow Wow Featuring Chris Brown & Johnta Austin,http://www.billboard.com/artist/297014/bow-wow,,,6BMhCQJYHxxKAeqYS1p5rY,,
 1692,KT Tunstall,http://www.billboard.com/artist/276661/kt-tunstall,ARCJKV91187FB46210,d339efbb-77b9-4147-ba9e-59f2f24550b2,5zzrJD2jXrE9dZ1AklRFcL,232.0,23556846.0
@@ -1564,6 +1697,8 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1696,Young Jeezy,http://www.billboard.com/artist/431677/young-jeezy,,,2iojnBLj0qIMiKPvVhLnsH,14300.0,19627204.0
 1697,Jordan Pruitt,http://www.billboard.com/artist/305198/jordan-pruitt,AROWM5V1187FB5B604,37d0a847-32d3-480f-bd1e-101f50a3d332,1JfkqBTXs6VC3JZ7RJNu7h,47495.0,175120529.0
 1698,Corbin Bleu,http://www.billboard.com/artist/299645/corbin-bleu,AR9EZG01187B9A7CAF,65fc5739-3562-46a0-8b69-1d1f64941a8b,5GuEFqVXxQsqJtjGqoFWvf,47492.0,208909837.0
+1699,Bow Wow Or R. Kelly (Featuring T.I. & T-Pain),,,,,,
+1700,Lil' Boosie Featuring Yung Joc,http://www.billboard.com/artist/307274/lil-boosie,,,,,
 1701,Norah Jones,http://www.billboard.com/artist/312412/norah-jones,,2ce02909-598b-44ef-a456-151ba0a3bd70,2Kx7MNY7cI1ENniW7vT30N,360.0,1001750.0
 1702,The Naked Brothers Band,http://www.billboard.com/artist/418687/naked-brothers-band,,0ab49580-c84f-44d4-875f-d83760ea2cfe,2qi6i5kIHHeEszXyQT7VJb,,212956525.0
 1703,Trent Tomlinson,http://www.billboard.com/artist/430406/trent-tomlinson,AR75LDK1187FB3A8E5,47b44a5b-237a-42e0-aaf6-c1f9116716ba,1Zn69emN3uZsF6YwCrkgYp,,81232612.0
@@ -1579,8 +1714,10 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1713,U2 & Green Day,,,,,,78500.0
 1714,Birdman & Lil Wayne,,,,3hozsZ9hqNq7CoBGYNlFTz,,72812522.0
 1715,Diddy Featuring Nicole Scherzinger,http://www.billboard.com/artist/300902/diddy,,,3hozsZ9hqNq7CoBGYNlFTz,,
+1716,"Eminem, 50 Cent, Lloyd Banks & Cashis",,,,,,
 1717,AFI,http://www.billboard.com/artist/275313/afi,AR2FAMK1187FB4CF60,,19I4tYiChJoxEO5EuviXpz,10923.0,3447440.0
 1718,Nas Featuring will.i.am,http://www.billboard.com/artist/276998/nas,,,3grHWM9bx2E9vwJCdlRv9O,,35307.0
+1719,Lady Sovereign,http://www.billboard.com/artist/306357/lady-sovereign,,,,,
 1720,Chingy Featuring Jermaine Dupri,http://www.billboard.com/artist/299137/chingy,,,6vWDO969PvNqNYHIOW5v0m,,
 1721,Webstar & Young B Featuring The Voice Of Harlem,,,,7nU4hB040gTmHm45YYMvqc,,
 1722,Sarah McLachlan,http://www.billboard.com/artist/278215/sarah-mclachlan,,99b72a79-d049-4538-8d90-f3760309409e,4NgNsOXSwIzXlUIJcpnNUp,1188.0,111192.0
@@ -1592,6 +1729,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1728,Josh Groban,http://www.billboard.com/artist/305237/josh-groban,,847e8a0c-cc20-4213-9e16-975515c2a926,6cXMpsP9x0SH4kFfMyVezF,909.0,170344.0
 1729,Ciara Featuring Chamillionaire,http://www.billboard.com/artist/299324/ciara,,,6cXMpsP9x0SH4kFfMyVezF,,
 1730,Lonestar,http://www.billboard.com/artist/307789/lonestar,ARJ6GR01187B98D64D,e45692e4-69f6-4493-888b-7ab89d21d0a4,3qbnxnvUqR14MJ9g8QwZJK,1154.0,173414.0
+1731,Ricky Martin Featuring La Mari,http://www.billboard.com/artist/365051/ricky-martin,,,,,
 1732,The Pussycat Dolls Featuring Snoop Dogg,http://www.billboard.com/artist/418902/pussycat-dolls,,,5vngPClqofybhPERIqQMYd,,
 1733,Mario Vazquez,http://www.billboard.com/artist/309481/mario-vazquez,ARB8DSE1187FB3CFC4,e2137e49-1cfa-4321-8dca-aef01cb8101e,7iMjWsjqbmYLobomSh4B64,,151285090.0
 1734,Brooke Hogan Featuring Paul Wall,http://www.billboard.com/artist/297654/brooke-hogan,,,7iMjWsjqbmYLobomSh4B64,,
@@ -1609,13 +1747,16 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1746,Frankie J Featuring Mannie Fresh & Chamillionaire,http://www.billboard.com/artist/302401/frankie-j,,,7vCtweS8UVAXTyau2j0rDT,,1324708.0
 1747,Alejandro Sanz,http://www.billboard.com/artist/278402/alejandro-sanz,,,5sUrlPAHlS9NEirDB8SEbF,,162036.0
 1748,Ruben Studdard,http://www.billboard.com/artist/369242/ruben-studdard,AR8HI8C1187B9B31F6,07a8922d-680a-4637-a55e-88d7d1969a95,0H0yrKDty3I7pPrNUSH3wW,37575.0,1574875.0
+1749,Toby Love Featuring Rakim & Ken-Y,http://www.billboard.com/artist/430050/toby-love,,,,,
 1750,Chingy Featuring Tyrese,http://www.billboard.com/artist/299137/chingy,,,2bA6fzP0lMAQ4kz6CF61w8,,
 1751,Nelly Furtado Featuring Timbaland,http://www.billboard.com/artist/312112/nelly-furtado,,,08p7B5OtcUuVblvkQIlBhJ,,
 1752,E-40 Featuring T-Pain & Kandi Girl,http://www.billboard.com/artist/276018/e-40,,,5Y5TRrQiqgUO4S36tzjIRZ,,
 1753,John Mellencamp,http://www.billboard.com/artist/304981/john-mellencamp,ARYVGP31187B9A531A,6bc658ea-005f-486b-8f94-33a2e40f7a72,7nU4hB040gTmHm45YYMvqc,,79969.0
 1754,Janet Featuring Khia,,,,0iYwcf0XreyCAswJOJMOII,,182512360.0
 1755,Cassie,http://www.billboard.com/artist/298795/cassie,AR93WAA1187FB42116,546fe2e5-3c3c-438c-b731-facb1a21bc5a,27FGXRNruFoOdf1vP8dqcH,27822.0,1159529.0
+1756,Sean Paul Feat. Keyshia Cole,http://www.billboard.com/artist/1490159/sean-paul,,,,,
 1757,Tenacious D,http://www.billboard.com/artist/374409/tenacious-d,,,1l7ZsJRRS8wlW3WfJfPfNS,,
+1758,Janet & Nelly,,,,,,
 1759,Fort Minor Featuring Styles Of Beyond,http://www.billboard.com/artist/302304/fort-minor,,,4mxWe1mtYIYfP040G38yvS,,80800060.0
 1760,Fergie Featuring will.i.am,http://www.billboard.com/artist/302083/fergie,,,,,
 1761,Young Dro Featuring T.I.,http://www.billboard.com/artist/431671/young-dro,,,4mxWe1mtYIYfP040G38yvS,,14967.0
@@ -1624,6 +1765,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1764,Yung Joc,http://www.billboard.com/artist/431719/yung-joc,AROHMXL1187B9AF4B2,ab794c44-fc35-48c9-a1c1-817bb54e070d,6ewMqjrF31lC8ywRsvm073,,154671332.0
 1765,Brooks & Dunn With Sheryl Crow & Vince Gill,,,,2jI32eTOcSx2bn1MGgRyei,,
 1766,Lil Jon Featuring E-40 & Sean Paul Of The YoungBloodZ,http://www.billboard.com/artist/307236/lil-jon,,,3nFkdlSjzX9mRTtwJOzDYB,,
+1767,Cherish Featuring Sean Paul Of The YoungBloodZ,http://www.billboard.com/artist/299070/cherish,,,,,
 1768,The Raconteurs,http://www.billboard.com/artist/418908/raconteurs,AR9NA5G1187B98F460,1695c115-bf3f-4014-9966-2b0c50179193,4wo1267SJuUfHgasdlfNfc,21614.0,129477464.0
 1769,Cham Featuring Alicia Keys,http://www.billboard.com/artist/298911/cham,,,4wo1267SJuUfHgasdlfNfc,,
 1770,Lloyd Banks Featuring 50 Cent,http://www.billboard.com/artist/307702/lloyd-banks,,,3CygdxquGHurS7f9LjNLkv,,
@@ -1641,6 +1783,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1782,Field Mob Featuring Ciara,http://www.billboard.com/artist/302110/field-mob,,,5xenrbYhp4IRydrWpBe4Bx,,
 1783,OutKast Featuring Scar & Sleepy Brown,http://www.billboard.com/artist/321442/outkast,,,2bA6fzP0lMAQ4kz6CF61w8,,
 1784,Mana,http://www.billboard.com/artist/309132/man,,,1sBkRIssrMs1AbVkOJbc7a,,
+1785,Chris Brown Featuring Lil' Wayne,http://www.billboard.com/artist/1486846/chris-brown,,,,,
 1786,Fort Minor Featuring Holly Brook,http://www.billboard.com/artist/302304/fort-minor,,,5pKCCKE2ajJHZ9KAiaK11H,,
 1787,Anna Nalick,http://www.billboard.com/artist/279415/anna-nalick,ARDFD1I1187B9A8CBA,fcdeb957-b420-4249-a092-946b537a00ca,4LoM3lMauQ540MW9QiyIcR,15734.0,21793469.0
 1788,Taking Back Sunday,http://www.billboard.com/artist/277549/taking-back-sunday,ARG9CID1187B9AB010,47b8b42a-96e8-46fa-9ea6-70c5136ae971,24XtlMhEMNdi822vi0MhY1,13624.0,16053322.0
@@ -1660,11 +1803,14 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1802,Jamie Foxx Featuring Twista,http://www.billboard.com/artist/304140/jamie-foxx,,,1wLeBWSGyI3mnTeiDAcgjP,,
 1803,Shawnna,http://www.billboard.com/artist/279003/shawnna,ARGWD4Q1187FB52610,633144f8-918d-48ae-86c2-10e3d588628f,4gpDA7R5796e6zbvZxGNga,15000.0,415433.0
 1804,Angels And Airwaves,http://www.billboard.com/artist/279303/angels-airwaves,,,,21599.0,
+1805,Rakim & Ken-Y,,,,,,
 1806,Anthony Hamilton,http://www.billboard.com/artist/279691/anthony-hamilton,AR75SGJ1187B9B80DA,135342c7-3bc9-43dc-9097-712fca517e7f,2DzRMyWgjuMbYvt5BLbpCo,15137.0,2089624.0
+1807,Janet Duet With Nelly,,,,,,
 1808,Tom Petty,http://www.billboard.com/artist/430102/tom-petty,,b071f9fa-14b0-4217-8e97-eb41da73f598,2UZMlIwnkgAEDBsw1Rejkn,4996.0,5072272.0
 1809,Bubba Sparxxx Featuring Ying Yang Twins & Mr. ColliPark,,,,2UZMlIwnkgAEDBsw1Rejkn,,
 1810,Dem Franchize Boyz,http://www.billboard.com/artist/300740/dem-franchize-boyz,AR3CQ2D1187B9B1953,13bcb2bb-db37-4397-baf5-e0f085be2d64,0VKTLKamj4IH8OfQbUL0kq,14258.0,17994486.0
 1811,Kenny Rogers,http://www.billboard.com/artist/305733/kenny-rogers,ARO4WQR1187B9B9825,,4tw2Lmn9tTPUv7Gy7mVPI4,318.0,200498.0
+1812,"DJ Khaled Featuring Lil Wayne, Paul Wall, Fat Joe, Rick Ross & Pitbull",http://www.billboard.com/artist/299939/dj-khaled,,,,,
 1813,Dem Franchize Boyz Featuring Lil Peanut & Charlay,http://www.billboard.com/artist/300740/dem-franchize-boyz,,,1XkoF8ryArs86LZvFOkbyr,,
 1814,Saving Jane,http://www.billboard.com/artist/278308/saving-jane,,4147087c-584f-42c8-bacd-fa000404c8f7,3SFVchRRMmFuOi3Azi0vTo,,21315460.0
 1815,Christina Milian Featuring Young Jeezy,http://www.billboard.com/artist/299254/christina-milian,,,3E3tW69eMfAffLGgsmP3GG,,
@@ -1678,6 +1824,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1823,The Pussycat Dolls Featuring will.i.am,http://www.billboard.com/artist/418902/pussycat-dolls,,,3Isy6kedDrgPYoTS1dazA9,,
 1824,Ghostface Killah Featuring Ne-Yo,http://www.billboard.com/artist/302806/ghostface-killah,,,085pc2PYOi8bGKj0PNjekA,1117181.0,
 1825,Mary J. Blige And U2,,,,21E3waRsmPlU7jZsS13rcj,,
+1826,50 Cent & Olivia,,,,,,
 1827,Three 6 Mafia,http://www.billboard.com/artist/419565/three-6-mafia,ARY55LO1187B9A3F17,6d2865a5-2115-4c83-9146-8a6f9a654d5a,55Aa2cqylxrFIXC767Z865,,1889116.0
 1828,LL Cool J Featuring Jennifer Lopez,http://www.billboard.com/artist/276751/ll-cool-j,,,55Aa2cqylxrFIXC767Z865,,
 1829,Daddy Yankee,http://www.billboard.com/artist/300083/daddy-yankee,ARBNXYA1187FB51C50,,4VMYDCV2IEDYJArk749S6m,8862.0,25514958.0
@@ -1691,19 +1838,24 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1837,Mariah Carey Featuring Snoop Dogg,http://www.billboard.com/artist/309388/mariah-carey,,,1Q9nxD19emMUTTWtFi7jZc,,
 1838,T-Pain Featuring Mike Jones,http://www.billboard.com/artist/277474/t-pain,,0c621280-46a3-40a1-8029-830bca78419d,3grHWM9bx2E9vwJCdlRv9O,,
 1839,Eminem Featuring Nate Dogg,http://www.billboard.com/artist/301722/eminem,,,07VmOvmuBp9G0gb8BTrpn0,,
+1840,Bow Wow Featuring J-Kwon & Jermaine Dupri,http://www.billboard.com/artist/297014/bow-wow,,,,,
 1841,Sheryl Crow & Sting,,,,5eyMzR1hYiEZtN2c9ly2kw,,58757.0
 1842,Jamie Foxx Featuring Ludacris,http://www.billboard.com/artist/304140/jamie-foxx,,,0Ty63ceoRnnJKVEYP0VQpk,,
+1843,Fort Minor Featuring Holly Brook & Jonah Matranga,http://www.billboard.com/artist/302304/fort-minor,,,,,
 1844,Remy Ma,http://www.billboard.com/artist/364848/remy-ma,ARG77LO1187FB48344,5719f1bd-ee0e-4454-b402-8e51ba9613fe,39mHYiNmLR7p8PXNG8Wll6,26619.0,74925230.0
+1845,Anais,http://www.billboard.com/artist/279032/ana-s,,,,,
 1846,Kanye West Featuring Jamie Foxx,http://www.billboard.com/artist/276709/kanye-west,,,5PokPZn11xzZXyXSfnvIM3,,
 1847,Kanye West Featuring Lupe Fiasco,http://www.billboard.com/artist/276709/kanye-west,,,4akybxRTGHJZ1DXjLhJ1qu,,
 1848,Yeah Yeah Yeahs,http://www.billboard.com/artist/431600/yeah-yeah-yeahs,AR6NYHH1187B9BA128,,3TNt4aUIxgfy9aoaft5Jj2,892.0,1265171.0
 1849,Brad Paisley Featuring Dolly Parton,http://www.billboard.com/artist/297053/brad-paisley,,,6wPhSqRtPu1UhRCDX5yaDJ,,
 1850,Juvenile,http://www.billboard.com/artist/1493176/juvenile,,48262e82-db9f-4a92-b650-dfef979b73ec,6wPhSqRtPu1UhRCDX5yaDJ,,1464606.0
+1851,"Zac Efron, Andrew Seeley & Vanessa Anne Hudgens",,,,,,
 1852,Juelz Santana,http://www.billboard.com/artist/305349/juelz-santana,,,6gbGGM0E8Q1hE511psqxL0,,
 1853,Lil Rob,http://www.billboard.com/artist/307252/lil-rob,AR5BZIY1187FB41A36,4995a475-1580-4217-a11b-448711e41910,7B7TGqQe7QTVm2U6q8jzk1,183596.0,154292718.0
 1854,D4L,http://www.billboard.com/artist/275958/d4l,ARYMIUE1187B9B58A5,633144f8-918d-48ae-86c2-10e3d588628f,4AllEJE7mVkhhyUV6DjqPz,,80800094.0
 1855,10 Years,http://www.billboard.com/artist/431829/10-years,,8876c0be-ccff-4d46-aa91-7f935a3b3b6b,0REMf7H0VP6DwfZ9MbuWph,52982.0,63569098.0
 1856,Gorillaz,http://www.billboard.com/artist/303029/gorillaz,ARAXU5Z1187B98FECD,6f6fd596-76e0-4b82-aa37-f558ac2d337b,3AA28KZvwAUcZuOKwyblJQ,382.0,567072.0
+1857,Purple Ribbon All-Stars,http://www.billboard.com/artist/356608/purple-ribbon-all-stars,,,,,
 1858,Ray J,http://www.billboard.com/artist/364678/ray-j,,126759e7-ca12-4bb4-884e-eba160e9e406,6gbGGM0E8Q1hE511psqxL0,,761936079.0
 1859,Bird York,http://www.billboard.com/artist/285891/bird-york,ARYX6CC1187B9A84D3,852fb986-b0d9-4529-adaf-4f38bc1b1040,1Dy96B7rDA3lTbtcp7hu51,,5932552.0
 1860,"The Notorious B.I.G. Featuring Diddy, Nelly, Jagged Edge & Avery Storm",,,,1Dy96B7rDA3lTbtcp7hu51,,
@@ -1713,164 +1865,322 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 1864,him,http://www.billboard.com/artist/1560863/him,,8f9d6bb2-dba4-4cca-9967-cc02b9f4820c,74aLweE8FHHf4yN5TWv1GM,,4471986.0
 1865,Relient K,http://www.billboard.com/artist/364840/relient-k,ARYDTFO1187B99B1E0,8484e4ab-b6b5-4326-b837-72eb72c9e8a4,3nJWBJvK7uGvfp4iZh9CkN,13931.0,5356225.0
 1866,Prince,http://www.billboard.com/artist/351039/prince,ARZQ7QA1187B9AD08B,2f9ecbed-27be-40e6-abca-6de49d50299e,5a2EaR3hamoenG9rDuVn8j,4691.0,155814.0
+1867,Willie Nelson,http://www.billboard.com/artist/431428/willie-nelson,,,,,
+1868,Andrew Seeley,,,,,,
 1869,High School Musical Cast,http://www.billboard.com/artist/303506/high-school-musical-cast,ARHCFQE119B3403902,,2gUMs9PE8XZVQyzCDqaYmW,,
+1870,Three 6 Mafia Featuring Young Buck & Eightball & MJG,http://www.billboard.com/artist/419565/three-6-mafia,,,,,
 1871,Michael Stipe,,,,,,527918.0
+1872,Ludacris & Field Mob Featuring Jamie Foxx,,,,,,
+1873,Lucas Grabeel & Ashley Tisdale,,,,,,
 1874,P.O.D.,http://www.billboard.com/artist/277129/pod,AR65OLD1187FB5C103,854a1807-025b-42a8-ba8c-2a39717f1d25,6KO6G41BBLTDNYOLefWTMU,4546.0,626650.0
+1875,Trina Featuring Kelly Rowland,http://www.billboard.com/artist/430452/trina,,,,,
 1876,System Of A Down,http://www.billboard.com/artist/281380/system-down,,39a1b293-8e17-4a1c-b50b-034c40e24461,5eAWCfyUhZtHHtBdNk56l1,,462715.0
+1877,Lucas Gabreel & Ashley Tisdale,,,,,,
+1878,Young Jeezy Featuring Akon,http://www.billboard.com/artist/431677/young-jeezy,,,,,
 1879,Vanessa Anne Hudgens,,,,,,
+1880,Kanye West Featuring Adam Levine,http://www.billboard.com/artist/276709/kanye-west,,,,,
+1881,The Pussycat Dolls Featuring Busta Rhymes,http://www.billboard.com/artist/418902/pussycat-dolls,,,,,
+1882,Twista Featuring Pitbull,http://www.billboard.com/artist/430584/twista,,,,,
+1883,Twista Featuring Trey Songz,http://www.billboard.com/artist/430584/twista,,,,,
 1884,Cast Of Rent,,,,,,
 1885,Lil' Wayne,http://www.billboard.com/artist/307264/lil-wayne,,c45d161f-83ce-4464-ba41-44202e6916d9,,,
 1886,Lindsay Lohan,http://www.billboard.com/artist/307419/lindsay-lohan,ARUBDKR1187FB3FC29,365e73ae-808c-4b0f-a313-74f302cb6911,,7144.0,
 1887,YoungBloodZ,http://www.billboard.com/artist/431696/youngbloodz,AR2QIVJ1187B9AF497,4da89b5e-7de6-4a8a-be98-9457eddc8e4c,2OqENqJFXPORP4BUGnu2Qq,,291418.0
 1888,Frankie J,http://www.billboard.com/artist/302401/frankie-j,AR4FVK41187FB4BC83,e80c46f2-48cc-4156-a091-e6d49dacf2b1,3sMYEBy0CZFxedcnm9i9hf,,1324708.0
+1889,Ying Yang Twins Featuring Pitbull,http://www.billboard.com/artist/431622/ying-yang-twins,,,,,
 1890,INXS,http://www.billboard.com/artist/276451/inxs,ARU2T6V1187FB5590B,8846e4ff-0c19-4af2-872b-7a8dc7497f68,1eClJfHLoDI4rZe5HxzBFv,1399.0,157405.0
+1891,Bow Wow Featuring Ciara,http://www.billboard.com/artist/297014/bow-wow,,,,,
 1892,Christian Castro,http://www.billboard.com/artist/299239/christian-castro,,,,,
+1893,Pharrell Featuring Gwen Stefani,,,,,,
 1894,Lil' Kim,http://www.billboard.com/artist/307304/lil-kim,ARATKFG1187B99D260,db21a231-40ee-4c18-9604-bd7508a05998,5tth2a3v0sWwV1C7bApBdX,4542.0,155408.0
+1895,Aventura Featuring Don Omar,http://www.billboard.com/artist/280317/aventura,,,,,
 1896,Santana Featuring Michelle Branch & The Wreckers,http://www.billboard.com/artist/278142/santana,,97612de1-e513-49be-94f3-dfe01e4f3fd7,,,
+1897,Trick-Trick Featuring Eminem,http://www.billboard.com/artist/430434/trick-trick,,,,,
 1898,The Click Five,http://www.billboard.com/artist/394702/click-five,,702d3a87-5b30-41f4-b54b-92688ec424bb,01lz5VBfkMFDteSA9pKJuP,27821.0,56765613.0
 1899,David Banner,http://www.billboard.com/artist/300400/david-banner,,c0cc5d77-937d-4296-a349-0a09d733fbfb,7jFaoqWPhYLrKzjzlpXmUO,,1287120.0
+1900,Shakira Feat. Alejandro Sanz,http://www.billboard.com/artist/278867/shakira,,,,,
 1901,D.H.T.,http://www.billboard.com/artist/275947/dht,,03ccee24-0146-44d6-9128-98560a023746,,,
 1902,Neal McCoy,http://www.billboard.com/artist/312080/neal-mccoy,AR06W2H1187FB5BA09,6cfd7ffc-824f-4219-8e27-4b9417700f44,69Etpls5a2aATUkB6NInTY,,149821.0
+1903,Missy Elliott Featuring Ciara & Fat Man Scoop,http://www.billboard.com/artist/311508/missy-elliott,,,,,
+1904,50 Cent Feat. Mobb Deep,http://www.billboard.com/artist/431969/50-cent,,,,,
+1905,Shakira Featuring Alejandro Sanz,http://www.billboard.com/artist/278867/shakira,,,,,
 1906,Ying Yang Twins Featuring Mike Jones & Mr. ColliPark,http://www.billboard.com/artist/431622/ying-yang-twins,,,,,3198320.0
 1907,Jamie O'Neal,http://www.billboard.com/artist/304150/jamie-oneal,ARBZX3K1187FB3F5FC,,6sQVeggRv1AhrMzuCjhCZe,14233.0,70012.0
 1908,Switchfoot,http://www.billboard.com/artist/281275/switchfoot,ART3U3E1187B99B1B8,a4d12798-4891-4ced-90ec-a8b8ff7b3b71,6S58b0fr8TkWrEHOH4tRVu,,655658.0
 1909,Depeche Mode,http://www.billboard.com/artist/300787/depeche-mode,,,762310PdDnwsDxAQxzQkfX,567.0,148377.0
 1910,Marcos Hernandez,http://www.billboard.com/artist/309264/marcos-hernandez,,,,,
 1911,Ryan Cabrera,http://www.billboard.com/artist/369340/ryan-cabrera,AR4R4UM1187B98BAA9,e54820fc-02c2-46be-ab4c-593dfd63dc44,3C4t1usFGoKHCSRdujm2GN,,7058223.0
+1912,Ricky Martin Featuring Fat Joe & Amerie,http://www.billboard.com/artist/365051/ricky-martin,,,,,
+1913,P$C Featuring T.I. & Lil Scrappy,http://www.billboard.com/artist/277118/pc,,,,,
+1914,Bow Wow Featuring Omarion,http://www.billboard.com/artist/297014/bow-wow,,,,,
 1915,Franz Ferdinand,http://www.billboard.com/artist/302420/franz-ferdinand,ARYVO9V1187B9B1FC6,0ae49abe-d6af-44fa-8ab0-b9ace5690e6f,0XNa1vTidXlvJ2gHSsRi4A,10667.0,6596751.0
 1916,Gretchen Wilson,http://www.billboard.com/artist/303153/gretchen-wilson,ARTVG9Z1187FB3F5FD,9ad8aede-6938-48f2-93fa-908bc4da9ef6,0IdYRFTswLdsGwSnzOaGNF,7031.0,6838616.0
+1917,Ludacris Featuring Bobby Valentino,http://www.billboard.com/artist/308504/ludacris,,,,,
 1918,The Strokes,http://www.billboard.com/artist/419216/strokes,AR9O98A1187FB39621,7d7a5fdd-0d04-4c36-8bee-906feeae239c,0epOFNiUfyON9EYx7Tpr6V,617.0,560289.0
+1919,Fat Joe Featuring Nelly,http://www.billboard.com/artist/302021/fat-joe,,,,,
 1920,"Damian ""Jr. Gong"" Marley",,,229cc68b-2a26-4d4c-8963-b70af1e63377,,,26252771.0
 1921,Bobby Valentino,http://www.billboard.com/artist/295383/bobby-valentino,,0e7a9c6c-dbf5-4cf9-a954-6baad3c38c64,,,
 1922,T.O.K.,http://www.billboard.com/artist/277490/tok,ARFH6FT1187FB5BF47,bbed0c72-b01c-43fd-a845-f019676291e2,4c4iX8pe1SV13xToguoelN,7526.0,14760367.0
 1923,Destiny's Child,http://www.billboard.com/artist/300824/destinys-child,ARKWI7M1187B9B7713,6a0439a1-4520-443b-9bf1-02acdf692d6e,1Y8cdNmUJH7yBTd9yOvr5i,21253.0,634287.0
 1924,Trisha Yearwood,http://www.billboard.com/artist/430476/trisha-yearwood,ARMH4YI1187FB3F45E,85d019b7-91f9-4b75-8560-d5bbe90c868c,3XlIhgydjvC4EniPFZT20j,10811.0,70764.0
+1925,Tony Yayo Featuring 50 Cent,http://www.billboard.com/artist/430249/tony-yayo,,,,,
 1926,Teairra Mari,http://www.billboard.com/artist/371510/teairra-mar,ARE9CYJ1187B9B052A,4b9bab5e-98f9-44d1-a4ca-a9d362546e25,,,
 1927,John Mayer Trio,http://www.billboard.com/artist/304975/john-mayer-trio,ARENAGW13A4B3FFE81,,68xuC1qXRhCUvGd4SSM655,,79888910.0
+1928,Paul Wall Featuring Big Pokey,http://www.billboard.com/artist/328415/paul-wall,,,,,
 1929,Tommy Lee,http://www.billboard.com/artist/430147/tommy-lee,,26f07661-e115-471d-a930-206f5c89d17c,4b9L0p4cMof32XvjwT9YrX,,
 1930,Crazy Frog,http://www.billboard.com/artist/299741/crazy-frog,ARIYE2G1187B9AE170,7051cfa2-0d1a-4d03-8e5f-9557cd2e42b4,,10148.0,65646661.0
+1931,Young Jeezy Featuring Mannie Fresh,http://www.billboard.com/artist/431677/young-jeezy,,,,,
 1932,Van Zant,http://www.billboard.com/artist/277713/van-zant,AR3KAB01187FB39873,8bbb18d5-69d0-465f-8f57-7b293223f02e,6ZRkCThyw6syuSOAGT7lY1,,7268664.0
 1933,Jermaine Dupri,http://www.billboard.com/artist/304478/jermaine-dupri,ARY8JIO1187B9940FC,5471d684-f9f6-465e-b7d7-940c0ae42827,,,
+1934,Trey Songz Featuring Twista,http://www.billboard.com/artist/430421/trey-songz,,,,,
 1935,Howie Day,http://www.billboard.com/artist/303656/howie-day,,3f2a12e9-6398-42fd-b257-2f6abd4aa5fc,0ekbDNE2eOq8QiaXM34wer,,446234306.0
+1936,Webbie Featuring Bun B,http://www.billboard.com/artist/431252/webbie,,,,,
 1937,Will Smith,http://www.billboard.com/artist/431377/will-smith,,,41qil2VaGbD194gaEcmmyx,6719.0,628845.0
 1938,Boyz N Da Hood,http://www.billboard.com/artist/297042/boyz-n-da-hood,AR1ZP9M1187FB4DE9A,4036bf23-2b69-4be9-a285-e89677ab49bb,030sRm1rnXI9MeQ23pdax8,13905.0,70239697.0
+1939,50 Cent Featuring Mobb Deep,http://www.billboard.com/artist/431969/50-cent,,,,,
 1940,Simple Plan,http://www.billboard.com/artist/279406/simple-plan,ARLYTW71187FB3809D,23a03e33-a603-404e-bcbf-2c00159d7067,2p4FqHnazRucYQHyDCdBrJ,913.0,150861.0
 1941,SheDaisy,http://www.billboard.com/artist/277384/shedaisy,,3718efd7-012d-4811-873a-dda4a3640ee8,2qFe0FyUMK8XXoyOsfYJr2,,3300032.0
+1942,R. Kelly Featuring The Game,http://www.billboard.com/artist/277270/r-kelly,,,,,
 1943,Kem,http://www.billboard.com/artist/305692/kem,,7a638e6c-50f4-48fd-ad04-f245ff20b0d5,1f2e3RQf7LHOum8NU61q0R,,92940.0
 1944,Beck,http://www.billboard.com/artist/281071/beck,ARC2XR11187FB5CC95,25b75a66-ce83-4db3-b136-395a3c3784c4,3vbKDsSS70ZX9D2OcvbZmS,5843.0,312095.0
+1945,Baby Bash Featuring Akon,http://www.billboard.com/artist/275566/baby-bash,,,,,
 1946,Common,http://www.billboard.com/artist/299567/common,,7cf5af7a-afa0-4dca-9473-a13508c64e9d,2GHclqNVjqGuiE5mA7BEoc,,64490.0
+1947,Natalie Featuring Baby Bash,http://www.billboard.com/artist/277009/natalie,,,,,
+1948,NB Ridaz Featuring Angelina,http://www.billboard.com/artist/276937/nb-ridaz,,,,,
 1949,Reba McEntire,http://www.billboard.com/artist/364742/reba-mcentire,ARPH1W61187B9B4CD8,c6ada25c-8590-4b75-8013-883a8df55882,02rd0anEWfMtF7iMku9uor,10812.0,48529.0
 1950,Ying Yang Twins,http://www.billboard.com/artist/431622/ying-yang-twins,AR5UHAH1187B9A0B92,17d17695-f0e1-46fd-815f-bf577cc5f50d,44PA0rCQXikgOWbfY7Fq7m,10761.0,3198320.0
+1951,Paul McCartney With U2,,,,,,
+1952,Ciara Featuring Missy Elliott,http://www.billboard.com/artist/299324/ciara,,,,,
 1953,Cassidy,http://www.billboard.com/artist/298793/cassidy,AR19QNR1187B9A13C5,,3WilJWdCNLSU7fpYjiKb7v,215.0,1247413.0
 1954,Bobby Pinson,http://www.billboard.com/artist/295160/bobby-pinson,ARB015G1187B9A0ACC,25942799-f6cb-4f2d-9f6a-bcc7ff0f6be9,25naJrFZN5yogpY4K3bV0f,237651.0,1975386.0
+1955,"Trick Daddy Featuring Ludacris, Lil' Kim & Cee-Lo",http://www.billboard.com/artist/430432/trick-daddy,,,,,
+1956,The Game Featuring 50 Cent,http://www.billboard.com/artist/1490221/game,,,,,
+1957,Brooke Valentine Featuring Lil Jon & Big Boi,http://www.billboard.com/artist/297656/brooke-valentine,,,,,
+1958,112 Featuring Foxy Brown,http://www.billboard.com/artist/431840/112,,,,,
+1959,50 Cent Featuring Olivia,http://www.billboard.com/artist/431969/50-cent,,,,,
+1960,Marques Houston Featuring Young Rome,http://www.billboard.com/artist/309665/marques-houston,,,,,
 1961,The Bravery,http://www.billboard.com/artist/388834/bravery,,4449ccf6-c948-4d33-aa97-b6ad98ce4b5b,2bcrMsFlF632EQ6VZERWFu,1081.0,31033635.0
+1962,Nelly Featuring Jung Tru & King Jacob,http://www.billboard.com/artist/312110/nelly,,,,,
 1963,Jo Dee Messina,http://www.billboard.com/artist/304743/jo-dee-messina,ARJXDKV1187B9A37B1,5eba17b9-f67a-48e0-abc3-b9b0e98588b5,3ltFy7g6KKQPPttsdOMlq3,,15136745.0
+1964,Gwen Stefani Featuring Eve,http://www.billboard.com/artist/303280/gwen-stefani,,,,,
 1965,Amerie,http://www.billboard.com/artist/278898/amerie,ARTN7KV1187FB4CF64,eecc97ff-11cb-424e-b37e-b00b17adb86b,08rMCq2ek1YjdDBsCPVH2s,15519.0,518195.0
 1966,Natalie,http://www.billboard.com/artist/277009/natalie,ARPZJJN1187B9AE9F8,fb35e47b-8d34-499f-b700-1bf3ebb01a8f,4lFOyLUXnV2Emuus9X8xpA,,45442790.0
 1967,Faith Evans,http://www.billboard.com/artist/276159/faith-evans,,383b8437-007e-46e6-afa1-b24f75ff804a,5NDMothbpdpq2xHqSjrrWn,,
 1968,Frankie J Featuring Baby Bash,http://www.billboard.com/artist/302401/frankie-j,,,,,1324708.0
+1969,Gorillaz/De La Soul,,,,,,
+1970,Mary J. Blige Featuring The Game & 50 Cent,,,,,,
+1971,Trillville Featuring Cutty,http://www.billboard.com/artist/430448/trillville,,,,,
 1972,Jet,http://www.billboard.com/artist/304582/jet,AR97LLY1187FB536A0,2f1e4ada-2b9a-4834-90fa-88d61b73082f,5ypxebeHEIXjMtJb17uJlI,,2502435.0
+1973,Mike Jones Featuring Slim Thug & Paul Wall,http://www.billboard.com/artist/311188/mike-jones,,,,,
+1974,American Idol Finalists Season 4,,,,,,
 1975,Andy Griggs,http://www.billboard.com/artist/279189/andy-griggs,ARTKV5V1187B98C232,3c418647-3aa0-4f0b-b043-306f47855f52,7CyJIUpcWZK2zFM6gKLKvD,2186.0,315393.0
+1976,Snoop Dogg Featuring Charlie Wilson & Justin Timberlake,http://www.billboard.com/artist/279664/snoop-dogg,,,,,
 1977,Mudvayne,http://www.billboard.com/artist/311927/mudvayne,,c48ff56b-0a0e-453c-be56-741d47c33056,2Pfv2w8a20xzC7Dr7QXRqM,82362.0,468521.0
 1978,Nivea Featuring Lil Jon & YoungBloodZ,http://www.billboard.com/artist/312346/nivea,,,,,147938646.0
+1979,The Used And My Chemical Romance,,,,,,
 1980,Fat Joe,http://www.billboard.com/artist/302021/fat-joe,,,3ScY9CQxNLQei8Umvpx5g6,,150627775.0
+1981,Jennifer Lopez Featuring Fat Joe,http://www.billboard.com/artist/304444/jennifer-lopez,,,,,
 1982,Caesars,http://www.billboard.com/artist/275769/caesars,,2f1e4ada-2b9a-4834-90fa-88d61b73082f,,,15022797.0
+1983,Squeak E. Clean Featuring Karen O.,,,,,,
 1984,Blaine Larsen,http://www.billboard.com/artist/289563/blaine-larsen,ARAPRY51187B9A742F,9c76170f-0d77-4aa3-b3c9-52f1ce07b9ec,77BL4malNaiSH99GMNvOka,101469.0,39941383.0
+1985,Snoop Dogg Featuring Pharrell,http://www.billboard.com/artist/279664/snoop-dogg,,,,,
+1986,Lil Jon & The East Side Boyz Featuring Usher & Ludacris,http://www.billboard.com/artist/307237/lil-jon-east-side-boyz,,,,,
+1987,Pretty Rickie,,,,,,
 1988,Queens Of The Stone Age,http://www.billboard.com/artist/277247/queens-stone-age,,52074ba6-e495-4ef3-9bb4-0703888a9f68,4pejUc4iciQfgdX6OKulQn,5845.0,857919.0
+1989,Destiny's Child Featuring T.I. & Lil Wayne,http://www.billboard.com/artist/300824/destinys-child,,,,,
+1990,Melissa Etheridge & Joss Stone,,,,,,
 1991,Jay-Z/Linkin Park,,,,,,
 1992,Billy Dean,http://www.billboard.com/artist/283555/billy-dean,ARDS81Q1187B989358,b6700184-f0a6-4ba5-bc3b-c8ce5e065027,3cMyqwpNT2D8f0WuaRzzZX,,1196761.0
 1993,Stevie Wonder,http://www.billboard.com/artist/280720/stevie-wonder,ARUM60L1187B9A7E1F,6feef685-3e08-4cdd-86ce-75eac4521fd4,7guDJrEfX3qb6FEbdPA5qi,66.0,46726.0
 1994,Ben Folds,http://www.billboard.com/artist/281188/ben-folds,AR76NY61187FB4F82F,703c7062-cc25-47e0-919e-ef740b88c725,55tif8708yyDQlSjh3Trdu,,463277.0
+1995,Lloyd Banks Featuring Avant,http://www.billboard.com/artist/307702/lloyd-banks,,,,,
+1996,Nelly Featuring Tim McGraw,http://www.billboard.com/artist/312110/nelly,,,,,
 1997,Garbage,http://www.billboard.com/artist/276307/garbage,ARRIZSL1187B9A0ACA,,6S0GHTqz5sxK5f9HtLXn9q,6048.0,109997.0
 1998,The Mars Volta,http://www.billboard.com/artist/418591/mars-volta,ARHUC691187B9AD27F,a2496a3c-8f42-4b98-b780-6f8d64f56441,75U40yZLLPglFgXbDVnmVs,8956.0,1645800.0
+1999,Twista Featuring Faith Evans,http://www.billboard.com/artist/430584/twista,,,,,
+2000,Fabolous Featuring Mike Shorey,http://www.billboard.com/artist/276136/fabolous,,,,,
+2001,Ciara Featuring Petey Pablo,http://www.billboard.com/artist/299324/ciara,,,,,
+2002,Lil Jon & The East Side Boyz Featuring Lil Scrappy,http://www.billboard.com/artist/307237/lil-jon-east-side-boyz,,,,,
 2003,Various Artists,,,023671ff-b1ad-4133-a4f3-aadaaadfd2e0,0LyfQWJT6nXafLPZqxe9Of,209.0,36270.0
+2004,Usher And Alicia Keys,,,,,,
 2005,112,http://www.billboard.com/artist/431840/112,ARIXSZZ1187B98D1F9,0d63e21c-861c-4fd7-926c-50bab9f7116c,7urq0VfqxEYEEiZUkebXT4,11949.0,1272395.0
+2006,Ja Rule Featuring R. Kelly & Ashanti,http://www.billboard.com/artist/276599/ja-rule,,,,,
 2007,The Postal Service,http://www.billboard.com/artist/418867/postal-service,AR4ZYGI1187B995AA2,0db1ad0b-3ac1-4425-b10a-3142e795895c,5yV1qdnmxyIYiSFB02wpDj,15038.0,2522312.0
+2008,Eminem Featuring Dr. Dre & 50 Cent,http://www.billboard.com/artist/301722/eminem,,,,,
+2009,Ja Rule Featuring Fat Joe & Jadakiss,http://www.billboard.com/artist/276599/ja-rule,,,,,
+2010,Cam'ron Featuring Kanye West & Syleena Johnson,http://www.billboard.com/artist/275868/camron,,,,,
 2011,Jimmy Eat World,http://www.billboard.com/artist/304685/jimmy-eat-world,AR6OJYP1187B9AE997,516cef4d-0718-4007-9939-f9b38af3f784,3Ayl7mCk0nScecqOzvNp6s,823.0,3446973.0
 2012,Rupee,http://www.billboard.com/artist/369295/rupee,ARSA0DW1187B993E1E,07ea7b39-48a1-46e7-8681-b77307f0119c,60TYV12IFUaDfnUA0S67zb,,20003186.0
+2013,Trick Daddy Featuring Lil Jon & Twista,http://www.billboard.com/artist/430432/trick-daddy,,,,,
+2014,Jadakiss Featuring Mariah Carey,http://www.billboard.com/artist/304022/jadakiss,,,,,
+2015,JoJo Featuring Bow Wow,http://www.billboard.com/artist/304749/jojo,,,,,
 2016,Velvet Revolver,http://www.billboard.com/artist/277765/velvet-revolver,AR2I8O01187B9ADF56,4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d,7CHilrn81OdYjkh4uSVnYM,,1628902.0
+2017,Shania Twain With Billy Currington Or Mark McGrath,,,,,,
 2018,Chevelle,http://www.billboard.com/artist/299091/chevelle,ARKWN6U1187B9A59E9,c5eb9407-caeb-4303-b383-6929aa94021c,56dO9zeHKuU5Gvfc2kxHNw,,519486.0
+2019,Body Head Bangerz Featuring YoungBloodz,http://www.billboard.com/artist/295790/body-head-bangerz,,,,,
 2020,Chingy,http://www.billboard.com/artist/299137/chingy,ARQGG4D1187B9B859C,,3s2wTjWxK8NOX09dmsvVOh,,2903115.0
+2021,Keyshia Cole Featuring Shyne,http://www.billboard.com/artist/305806/keyshia-cole,,,,,
 2022,Monchy & Alexandra,http://www.billboard.com/artist/311748/monchy-alexandra,ARDYANG1187FB3F460,c6ef2c3c-b4c2-4771-836b-91f0c20ed57b,3rs3EOlJ8jyPpdGiQ9Mhub,,22141977.0
+2023,Patti LaBelle Featuring Ron Isley,http://www.billboard.com/artist/328324/patti-labelle,,,,,
 2024,Terror Squad,http://www.billboard.com/artist/375751/terror-squad,ARLGUTA1187B9B605F,b504f625-4ef6-4a5a-81e8-870a61e8dc9c,2BvzbqWWwLN11XGBYgDZzx,,791910.0
+2025,Guerilla Black Featuring Mario Winans,http://www.billboard.com/artist/303229/guerilla-black,,,,,
+2026,Daryl Hall  John Oates,http://www.billboard.com/artist/300339/daryl-hall-john-oates,,,,,
+2027,2Pac Featuring Nate Dogg,http://www.billboard.com/artist/431886/2pac,,,,,
+2028,"The Alchemist Featuring Prodigy, Illa Ghee & Nina Sky",http://www.billboard.com/artist/379280/alchemist,,,,,
+2029,"N.O.R.E. Featuring Daddy Yankee, Nina Sky, Gem Star & Big Mato",http://www.billboard.com/artist/276932/nore,,,,,
+2030,Seether Featuring Amy Lee,http://www.billboard.com/artist/278593/seether,,,,,
+2031,LL Cool J Featuring 7 Aurelius,http://www.billboard.com/artist/276751/ll-cool-j,,,,,
+2032,Teena Marie Featuring Gerald Levert,http://www.billboard.com/artist/373040/teena-marie,,,,,
 2033,Mannie Fresh,http://www.billboard.com/artist/309086/mannie-fresh,ART0YF71187B99BEC1,,0fbFfVckGKsDbAfYnB5mD1,,13539464.0
 2034,Crossfade,http://www.billboard.com/artist/299792/crossfade,,056bb0bc-6af7-4c25-bbfe-f96c6e6d9feb,4IR8ZkpbyyKrqsIzchF3NB,,5365062.0
 2035,"Juvenile, Wacko & Skip",,,,,,1464606.0
 2036,Anita Baker,http://www.billboard.com/artist/279362/anita-baker,,1c9d555e-d20a-46d9-93a3-bf7e0d263ece,,,
+2037,Alicia Keys Featuring Tony! Toni! Tone!,http://www.billboard.com/artist/278600/alicia-keys,,,,,
+2038,Xzibit Featuring Keri Hilson,http://www.billboard.com/artist/431562/xzibit,,,,,
 2039,Black Eyed Peas,http://www.billboard.com/artist/385091/black-eyed-peas,,056e4f3e-d505-4dad-8ec1-d04f521cbb56,,263.0,
 2040,R. Kelly & Jay-Z,,,13bcb2bb-db37-4397-baf5-e0f085be2d64,,,
+2041,Akon Featuring Styles P.,http://www.billboard.com/artist/278247/akon,,,,,
 2042,Mase Featuring P. Diddy,http://www.billboard.com/artist/309877/mase,,,2T83fb6xuVS4Ka3SjTlnOh,,328729648.0
+2043,Nas Featuring Olu Dara,http://www.billboard.com/artist/276998/nas,,,,,
 2044,Los Lonely Boys,http://www.billboard.com/artist/308083/los-lonely-boys,,798c52be-c8d9-42e6-8883-febae7dec849,4aSEmLLxLX9wR5aLMllOKj,,5296306.0
 2045,Hoobastank,http://www.billboard.com/artist/303587/hoobastank,,fbcd7b29-455f-49e6-9c4f-8249d20a055e,2MqhkhX4npxDZ62ObR5ELO,,415242.0
+2046,Nelly Featuring Jaheim,http://www.billboard.com/artist/312110/nelly,,,,,
 2047,Duran Duran,http://www.billboard.com/artist/301386/duran-duran,AR9L6R11187B9AA3F2,,0lZoBs4Pzo7R89JM9lxwoT,,487384.0
 2048,Lil Scrappy,http://www.billboard.com/artist/307255/lil-scrappy,,,5einkgXXrjhfYCyac1FANB,,5559382.0
+2049,Jadakiss Featuring Anthony Hamilton,http://www.billboard.com/artist/304022/jadakiss,,,,,
+2050,Lil' Flip Featuring Lea,http://www.billboard.com/artist/307297/lil-flip,,,,,
 2051,LL Cool J,http://www.billboard.com/artist/276751/ll-cool-j,ARNHMFD1187FB3B3F6,,1P8IfcNKwrkQP5xJWuhaOC,,50311.0
 2052,Beenie Man,http://www.billboard.com/artist/281097/beenie-man,ARVUN5F1187FB4CCC7,71d825f9-265e-4b51-8508-25cd7a681f01,4L3GTE04bW5N7azA9QPhjA,,77806.0
 2053,Vanessa Carlton,http://www.billboard.com/artist/277721/vanessa-carlton,AR5LDM21187B9AC3DE,99b72a79-d049-4538-8d90-f3760309409e,5ILrArfIV0tMURcHJN8Q07,,111238.0
 2054,New Edition,http://www.billboard.com/artist/312165/new-edition,,c2d25856-a09a-4d15-b404-77dd19c19e63,1mFX1QlezK1lNPKQJkhwWb,,38884.0
+2055,Twista Featuring R. Kelly,http://www.billboard.com/artist/430584/twista,,,,,
+2056,Usher Featuring Lil Jon & Ludacris,http://www.billboard.com/artist/430708/usher,,,,,
 2057,Christina Milian,http://www.billboard.com/artist/299254/christina-milian,ARDUIMG1187B9B9498,,4eAOcbAXIF4BmbN6E1QIlw,,810655.0
 2058,Nitty,http://www.billboard.com/artist/312343/nitty,AROJ4YL1187B99B3CE,022fcbca-b177-42e6-88f7-790df3aed70a,0kEcxP5ezzvP5RcO51TCBD,,4126515.0
+2059,Kevin Lyttle Featuring Spragga Benz,http://www.billboard.com/artist/305788/kevin-lyttle,,,,,
+2060,Juvenile Featuring Soulja Slim,http://www.billboard.com/artist/1493176/juvenile,,,,,
 2061,Counting Crows,http://www.billboard.com/artist/299686/counting-crows,ARLY7P81187B9ACF4D,2ddd167f-5b8a-4372-b350-6ad50493bac0,0vEsuISMWAKNctLlUAhSZC,,35719.0
+2062,"Houston Featuring Chingy, Nate Dogg & I-20",http://www.billboard.com/artist/303643/houston,,,,,
+2063,Shawnna Featuring Ludacris,,,,,,
+2064,J-Kwon Featuring Sadiyyah,http://www.billboard.com/artist/276532/j-kwon,,,,,
 2065,Nelly & Christina Aguilera,,,405008d1-8696-4526-b441-cebbbd7c7399,,,
+2066,Nina Sky Featuring Jabba,http://www.billboard.com/artist/312320/nina-sky,,,,,
 2067,Terri Clark,http://www.billboard.com/artist/375440/terri-clark,ARKXL281187FB52DDE,f87b740a-c22b-4fae-9987-1f3e16f840c4,0HLOP0AdsaWe5Pt5TNueGC,16497.0,411509.0
+2068,Brad Paisley Featuring Alison Krauss,http://www.billboard.com/artist/297053/brad-paisley,,,,,
 2069,Trick Daddy,http://www.billboard.com/artist/430432/trick-daddy,,13bcb2bb-db37-4397-baf5-e0f085be2d64,,,146722.0
+2070,Christina Aguilera Featuring Missy Elliott,http://www.billboard.com/artist/299251/christina-aguilera,,,,,
+2071,Teena Marie Featuring Baby,http://www.billboard.com/artist/373040/teena-marie,,,,,
+2072,Christina Milian Featuring Joe Budden,http://www.billboard.com/artist/299254/christina-milian,,,,,
 2073,Usher & Alicia Keys,,,,,,316069.0
+2074,Lloyd Featuring Ashanti,http://www.billboard.com/artist/1496550/lloyd,,,,,
 2075,Julie Roberts,http://www.billboard.com/artist/305384/julie-roberts,ARC87OG1187B99F540,6043a59f-e948-4421-b86b-2259cfd3926c,5sXhYkm9PpLn5R70U2T6Ba,,5499839.0
 2076,Lloyd Banks,http://www.billboard.com/artist/307702/lloyd-banks,,13bcb2bb-db37-4397-baf5-e0f085be2d64,3vDUJHQtqT3jFRZ2ECXDTi,,5499815.0
+2077,"N.O.R.E., GemStar, Big Mato, Nina Sky & Daddy Yankee",,,,,,
+2078,Ying Yang Twins Featuring Trick Daddy,http://www.billboard.com/artist/431622/ying-yang-twins,,,,,
 2079,D12,http://www.billboard.com/artist/275957/d12,AREJ4S91187B9AD10C,5e9c618a-437d-4cca-9957-4a33cba93da2,5Qi4Bb7a8C0a00NZcA77L0,,1052456.0
 2080,Mario Winans Featuring Enya & P. Diddy,http://www.billboard.com/artist/309484/mario-winans,,,,,689196.0
 2081,311,http://www.billboard.com/artist/431916/311,,fbd2a255-1d57-4d31-ac11-65b671c19958,41Q0HrwWBtuUkJc7C1Rp6K,,1504658.0
 2082,Slum Village Featuring Kanye West & John Legend,http://www.billboard.com/artist/279605/slum-village,,38cdd71c-344b-4c54-bac2-19709da7140d,,,
+2083,Play-N-Skillz Featuring Krayzie Bone & Adina Howard,http://www.billboard.com/artist/341581/play-n-skillz,,,,,
+2084,Mynt Featuring Kim Sozzi,http://www.billboard.com/artist/311993/mynt,,,,,
+2085,"N.O.R.E., GemStar, Big Mato, Nina Sky & Tego Calderon",,,,,,
 2086,Mis-Teeq,http://www.billboard.com/artist/311442/mis-teeq,ARTWDTI1187FB52CF9,e82500a8-70ce-46ad-a028-b0690420d560,,,6337808.0
 2087,David Lee Murphy,http://www.billboard.com/artist/300467/david-lee-murphy,,ddf152b8-584e-47a5-a7f4-280a21b0b8ca,78OAtwN3XpjMcjibnF2Kw5,,
 2088,Mobb Deep,http://www.billboard.com/artist/311598/mobb-deep,AREV2491187B9B017E,4e954b02-fae2-4bd7-9547-e055a6ac0527,6O2zJ0tId7g07yzHtX0yap,,77135.0
 2089,Patti LaBelle,http://www.billboard.com/artist/328324/patti-labelle,,7d9a5b40-aed0-44ca-a32a-9c780087726a,0ty0xha1dbprYIUAQufkFn,,17334.0
+2090,Lenny Kravitz Featuring Jay-Z,http://www.billboard.com/artist/306952/lenny-kravitz,,,,,
+2091,"Jimmy Buffett With Clint Black, Kenny Chesney, Alan Jackson, Toby Keith & George Strait",,,,,,
+2092,NB Ridaz Featuring Gemini,http://www.billboard.com/artist/276937/nb-ridaz,,,,,
 2093,Mase,http://www.billboard.com/artist/309877/mase,,,1wiBLzTI7z9RUwEpNPdFT6,,1413499.0
+2094,Elephant Man,http://www.billboard.com/artist/301607/elephant-man,,,,,
 2095,Diana DeGarmo,http://www.billboard.com/artist/300870/diana-degarmo,,4c567ed6-8bc9-447a-bbd5-1dce18e4ee81,59eUYRRUA8EnmFBgR5kl33,,
 2096,Brandy Featuring Kanye West,http://www.billboard.com/artist/297075/brandy,,,,,17416.0
 2097,J-Kwon,http://www.billboard.com/artist/276532/j-kwon,ARVSFMI1187FB52CDC,633144f8-918d-48ae-86c2-10e3d588628f,1Zz5UxfKSSqc6hpa3xJPCw,1190.0,5240259.0
 2098,Alanis Morissette,http://www.billboard.com/artist/278329/alanis-morissette,,d339efbb-77b9-4147-ba9e-59f2f24550b2,6ogn9necmbUdCppmNnGOdi,,1092859.0
 2099,Kimberley Locke,http://www.billboard.com/artist/305894/kimberley-locke,ARJVGWP1187B98A73E,1d3820a0-b7fb-4ae8-a68a-b6c70ce705cd,6UKa8gyuwzx5arpY8kf9XK,,2899199.0
+2100,Beenie Man Featuring Ms. Thing,http://www.billboard.com/artist/281097/beenie-man,,,,,
 2101,John Michael Montgomery,http://www.billboard.com/artist/304982/john-michael-montgomery,AR5AKHZ1187FB46B9F,1edead6d-6c01-4ad4-9cce-c334bf7edf23,7mPcfx7PhnBh6n4HMCd61A,4055.0,152806.0
 2102,Beastie Boys,http://www.billboard.com/artist/280828/beastie-boys,ARLHO5Z1187FB4C861,1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2,03r4iKL2g2442PT9n2UKsx,505.0,1971863.0
+2103,Kanye West Featuring Syleena Johnson,http://www.billboard.com/artist/276709/kanye-west,,,,,
 2104,Lil' Flip,http://www.billboard.com/artist/307297/lil-flip,ARCHCB01187B9AA577,4036bf23-2b69-4be9-a285-e89677ab49bb,4Q5sPmM8j4SpMqL4UA1DtS,,1903801.0
+2105,Cassidy Featuring Mashonda,http://www.billboard.com/artist/1486458/cassidy,,,,,
+2106,"Yung Wun Featuring DMX, Lil' Flip & David Banner",http://www.billboard.com/artist/431722/yung-wun,,,,,
 2107,Musiq,,,c2d25856-a09a-4d15-b404-77dd19c19e63,,10871.0,
 2108,Seal,http://www.billboard.com/artist/278490/seal,ARAIABB1187B9AC6E2,75a72702-a5ef-4513-bca5-c5b944903546,5GtMEZEeFFsuHY8ad4kOxv,623.0,156209.0
 2109,Kenny Chesney & Uncle Kracker,,,,,,205322.0
 2110,Maria Mena,http://www.billboard.com/artist/309356/maria-mena,,99b72a79-d049-4538-8d90-f3760309409e,3rTRHzFfbTk5GL3LpYZGHR,,14507105.0
+2111,Mason Betha,,,,,,
 2112,Dido,http://www.billboard.com/artist/300906/dido,,27fbbcdf-9e4a-4c40-bb20-67399623ba94,2mpeljBig2IXLXRAFO9AAs,217.0,20646.0
+2113,Jadakiss Featuring Nate Dogg,http://www.billboard.com/artist/304022/jadakiss,,,,,
 2114,Ric-A-Che,http://www.billboard.com/artist/364952/ric-che,,,,,17856772.0
+2115,Dilated Peoples Featuring Kanye West,http://www.billboard.com/artist/300943/dilated-peoples,,,,,
+2116,OutKast Featuring Sleepy Brown,,,,,,
+2117,Sean Paul Featuring Sasha,http://www.billboard.com/artist/1490159/sean-paul,,,,,
 2118,Buddy Jewell,http://www.billboard.com/artist/298495/buddy-jewell,ARASJQK1187FB5B9D1,0034ee6d-223b-4b76-ab1c-8ae5ae143e2b,43c94u7flZbHSdDaUuohqS,,1419213.0
 2119,Sugababes,http://www.billboard.com/artist/280930/sugababes,,2f4f5d16-7102-4110-97fd-f5c365d6bb26,7rZNSLWMjTbwdLNskFbzFf,7.0,5414192.0
 2120,A Perfect Circle,http://www.billboard.com/artist/275179/perfect-circle,ARVDO8G1187B99F43E,9011971a-df29-4b57-8889-2e5e9a645cbe,4DFhHyjvGYa9wxdHUjtDkc,1004.0,652503.0
+2121,Chingy Featuring J. Weav,http://www.billboard.com/artist/299137/chingy,,,,,
+2122,Joe Featuring G-Unit,http://www.billboard.com/artist/1496519/joe,,,,,
+2123,G-Unit Featuring Joe,http://www.billboard.com/artist/276226/g-unit,,,,,
 2124,Janet Jackson,http://www.billboard.com/artist/304191/janet-jackson,ART4QZC1187FB51612,1239d1bc-cc09-43e0-bcd0-374f60346138,4qwGe91Bz9K2T8jXTZ815W,,1272779.0
 2125,Lostprophets,http://www.billboard.com/artist/308235/lostprophets,ARIRLGQ1187FB45B7E,8262d8e4-9137-4bb3-a787-3caabbbc13e9,7KnaZr690xW0sCihF9Z8oP,,473514.0
 2126,Cherie,http://www.billboard.com/artist/299067/cherie,,,7Cnz0jA7Cwlj34nLkiWsRg,,5616838.0
+2127,Cassidy Featuring R. Kelly,http://www.billboard.com/artist/298793/cassidy,,,,,
 2128,Clay Aiken,http://www.billboard.com/artist/299413/clay-aiken,,23644c2d-7351-4690-81c0-0153e4652847,13aBWT8LN4oNWWGFOu96MA,,1574858.0
 2129,Carolyn Dawn Johnson,http://www.billboard.com/artist/298746/carolyn-dawn-johnson,,53f402db-7d17-4927-ba1c-35e75f76c24e,0SwVn4s8PdhY9XQhi9SetC,,561196.0
 2130,Blue County,http://www.billboard.com/artist/291456/blue-county,ARGWBBQ1187B9B38B7,3dc9c919-508f-4255-b05e-0eed6a28137d,6zvltSMSFDRsPDs8IneC1A,,71580681.0
+2131,Sleepy Brown Featuring OutKast,http://www.billboard.com/artist/279580/sleepy-brown,,,,,
 2132,Limp Bizkit,http://www.billboard.com/artist/307371/limp-bizkit,AR5H4CJ1187B9AE949,020bfbb4-05c3-4c86-b372-17825c262094,165ZgPlLkK7bf5bDoFc6Sb,8280.0,105544.0
+2133,Ying Yang Twins Featuring Lil Jon & The East Side Boyz,http://www.billboard.com/artist/431622/ying-yang-twins,,,,,
 2134,Fuel,http://www.billboard.com/artist/302533/fuel,ARCEAJY1187FB4DF61,bc710bcf-8815-42cf-bad2-3f1d12246aeb,0EyuKHE1AeE9lWUF8mzKVp,34946.0,510215.0
 2135,Sarah Connor,http://www.billboard.com/artist/278193/sarah-connor,,d3b2bec4-b70e-460e-b433-a865ceac2de8,7e52Ytzjj1q71DUj2cSlch,,5237267.0
+2136,Twista Featuring Kanye West & Jamie Foxx,http://www.billboard.com/artist/430584/twista,,,,,
+2137,Young Gunz Featuring Rell,http://www.billboard.com/artist/431673/young-gunz,,,,,
 2138,Frankee,http://www.billboard.com/artist/302391/frankee,AR7V0DI1187FB524DE,889b69e3-7b18-4889-b953-9f2931597204,01U4snBkRWq0FBrK3P1mwM,,5610696.0
 2139,Eamon,http://www.billboard.com/artist/276042/eamon,ARAG1L81187FB467DD,,,,
+2140,Juvenile Featuring Mannie Fresh,http://www.billboard.com/artist/1493176/juvenile,,,,,
 2141,Trillville,http://www.billboard.com/artist/430448/trillville,AR3GXVY1187B99DD82,08962fc5-ed17-453b-9c68-ff7922eb4957,,,2313653.0
 2142,Ryan Duarte,http://www.billboard.com/artist/369341/ryan-duarte,,816d9b5d-eaf9-4a97-b5f7-6e82cd01aafe,,,
+2143,Angel City Featuring Lara McAllen,http://www.billboard.com/artist/279230/angel-city,,,,,
+2144,Baby Bash Featuring Frankie J,http://www.billboard.com/artist/275566/baby-bash,,,,,
 2145,MercyMe,http://www.billboard.com/artist/310565/mercyme,,,6APm8EjxOHSYM5B4i3vT3q,,5360449.0
+2146,Too Short Featuring Lil Jon & The East Side Boyz,http://www.billboard.com/artist/430262/too-short,,,,,
+2147,Westside Connection Featuring Nate Dogg,http://www.billboard.com/artist/431289/westside-connection,,,,,
+2148,D12 Featuring Eminem,http://www.billboard.com/artist/275957/d12,,,,,
+2149,Nick Cannon Featuring R. Kelly,http://www.billboard.com/artist/312232/nick-cannon,,,,,
 2150,Lasgo,http://www.billboard.com/artist/306556/lasgo,,dcecd582-6f3c-42af-8f06-6a083c0629a9,25Kw8f1zcn9VtUk5Nl3qrp,,17769953.0
 2151,Mr. Vegas,http://www.billboard.com/artist/311909/mr-vegas,,,1pmixngtBJleMrGUG5o8DE,7535.0,1856856.0
 2152,Trapt,http://www.billboard.com/artist/430378/trapt,AR2TFDC1187FB45779,c5eb9407-caeb-4303-b383-6929aa94021c,1UdQqCUR7RwB9YYJONwbdM,4026.0,799259.0
+2153,Santana Featuring Alex Band Or Chad Kroeger,http://www.billboard.com/artist/278142/santana,,,,,
+2154,Ludacris Featuring Shawnna,http://www.billboard.com/artist/308504/ludacris,,,,,
+2155,YoungBloodZ Featuring Lil Jon,http://www.billboard.com/artist/431696/youngbloodz,,,,,
 2156,Tracy Byrd,http://www.billboard.com/artist/430337/tracy-byrd,AR3AY3R1187FB52CF0,6be3da98-8f11-4d6a-9ee0-39f862ba4ce4,0xxJO75NeIAF5jYruLYIDT,2185.0,71154.0
+2157,Lil Jon & The East Side Boyz Featuring Ying Yang Twins,http://www.billboard.com/artist/307237/lil-jon-east-side-boyz,,,,,
+2158,Tupac With Eminem Featuring The Outlawz,,,,,,
 2159,Deborah Cox,http://www.billboard.com/artist/300638/deborah-cox,,,601893mmW5hl1FBOykWZHG,,17251.0
 2160,Kylie Minogue,http://www.billboard.com/artist/306232/kylie-minogue,,85df56ab-e125-4169-8ac8-e6666128d526,4RVnAU35WRWra6OZ3CbbMA,,465031.0
 2161,Kelis,http://www.billboard.com/artist/305667/kelis,ARIGPNM1187B98C744,,0IF46mUS8NXjgHabxk2MCM,207.0,772086.0
+2162,Beyonce Featuring Sean Paul,http://www.billboard.com/artist/281569/beyonce,,,,,
+2163,Mario Winans Featuring P. Diddy & Enya,http://www.billboard.com/artist/309484/mario-winans,,,,,
+2164,Tupac Featuring The Notorious B.I.G.,,,,,,
+2165,JC Chasez Featuring Dirt McGirt,http://www.billboard.com/artist/276581/jc-chasez,,,,,
 2166,G-Unit,http://www.billboard.com/artist/276226/g-unit,ARRXG5Y1187B9AA016,13bcb2bb-db37-4397-baf5-e0f085be2d64,6evKD5JWJON3qPBJtUEmtY,,2699974.0
+2167,Murphy Lee Featuring Jermaine Dupri,http://www.billboard.com/artist/311945/murphy-lee,,,,,
+2168,Big Tymers Featuring R. Kelly,http://www.billboard.com/artist/281696/big-tymers,,,,,
+2169,Bow Wow Featuring Jagged Edge,http://www.billboard.com/artist/297014/bow-wow,,,,,
 2170,Mya,http://www.billboard.com/artist/311986/mya,,,6lHL3ubAMgSasKjNqKb8HF,,
+2171,Mary J. Blige Featuring Eve,http://www.billboard.com/artist/309851/mary-j-blige,,,,,
+2172,Chingy Featuring Ludacris & Snoop Dogg,http://www.billboard.com/artist/299137/chingy,,,,,
 2173,B2K Featuring Fabolous,http://www.billboard.com/artist/275500/b2k,,7afdc323-5ac7-4af5-ad30-6eb905d40a6d,,,645632.0
+2174,"Marques Houston Featuring Jermaine ""JD"" Dupri",http://www.billboard.com/artist/309665/marques-houston,,,,,
 2175,Liz Phair,http://www.billboard.com/artist/307684/liz-phair,,,,,
 2176,Stacie Orrico,http://www.billboard.com/artist/280269/stacie-orrico,ARSLAVY1187B9BA622,8b477559-946e-4ef2-9fe1-446cff8fdd79,5QjWgYDeKNP2iPHTdTttnG,18023.0,634752.0
+2177,Obie Trice Featuring Nate Dogg,,,,,,
 2178,Fountains Of Wayne,http://www.billboard.com/artist/302315/fountains-wayne,,c76e4d1c-06ff-4594-b31c-4a93d9c1cb22,1pgtr4nhBQjp9oCUBPyYWh,419.0,154213.0
+2179,Usher Featuring Ludacris & Lil Jon,http://www.billboard.com/artist/430708/usher,,,,,
 2180,Barenaked Ladies,http://www.billboard.com/artist/280685/barenaked-ladies,,334c2c2c-2ae3-4b69-8f38-167d07f83d25,,,
+2181,"Nelly, P. Diddy & Murphy Lee",http://www.billboard.com/artist/1540143/stu-heiss,,,,,
+2182,Marques Houston Featuring Joe Budden & Pied Piper,http://www.billboard.com/artist/309665/marques-houston,,,,,
 2183,Britney Spears Featuring Madonna,http://www.billboard.com/artist/297529/britney-spears,,,,,217005.0
 2184,Live,http://www.billboard.com/artist/307651/live,,78661da3-894c-4947-a34b-fb7edf585d9b,6eoJpTIlcuxJNjV5fDzDJH,,61027.0
 2185,Sufjan Stevens,,AR7OA5G1187B98D3A0,1de8d75d-f1ca-4e9e-acd9-13c01ad6e3e5,4MXUO7sVCaFgFjoTI5ox5c,13419.0,4273404.0
@@ -1925,6 +2235,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2234,Mateo Messina,,ARCOILN1187B99BD98,32c91695-1a31-4ec5-a12e-9e3870b64dbd,5dH4mfMtp7yw2AxlEhh6EX,142141.0,269737208.0
 2235,Antsy Pants,,,4659a37c-7954-4643-bd83-146aa13ce3e6,,,269739559.0
 2236,Cat Power,,AR91NIO1187FB4D732,59a7fbcb-ff74-494d-abd0-9c82359040c9,6G7OerKc3eBO9sVkRNopFC,19235.0,2959120.0
+2237,Michael Cera and Ellen Page,,,,,,
 2238,The Velvet Underground,,ARBFQ7L1187B9ACD48,3abfc8cc-00f0-41c7-a3d0-58054feae415,1nJvji2KIlWSseXRSlNYsC,9604.0,136829.0
 2239,Vampire Weekend,,AR2ZPMX1187FB4E4B6,24b4aee8-32ed-4163-98f7-55bae67411ae,5BvJzeQpmsdsFp4HGUYUEx,146096.0,259437105.0
 2240,M83,,ARB6OGR1187FB4D43D,7c3ba8ea-d748-4c83-9f13-84eee8959eea,63MQldklfxkjYDoUE4Tppz,12566.0,46086389.0
@@ -1933,6 +2244,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2243,Fleet Foxes,,ARO2U2Q119B86692A8,6c8b9855-ba8b-48f9-ac1d-42167f7f7b18,4EVpmkEwrLYEg6jIsiPMIb,162919.0,275727569.0
 2244,Girl Talk,,ARH39ZK1187B9ABC22,499760ff-c7ef-4e0f-871a-c8d514179cfd,6awzBEyEEwWHOjLox1DkLr,86224.0,
 2245,Conor Oberst,,ARUE5LZ1187B9AC8E5,ff0d20a7-a69e-4207-a18f-ca808759499d,2Z7gV3uEh1ckIaBzTUCE6R,224701.0,202642374.0
+2246,Black Kids,,,,,,
 2247,Bon Iver,,ARKDTAM1187FB54026,af37c51c-0790-4a29-b995-456f98a6b8c9,4LEiUm1SRbFMgfqnQTwUbQ,153891.0,273428126.0
 2248,Pink Floyd,,ARD4C1I1187FB4B0C3,67f66c07-6e61-4026-ade5-7e782fad3a5d,0k17h0D3J5VfsdmQ1iZtE9,,487143.0
 2249,Jack's Mannequin,,ARQSM561187FB4A0CF,,42aeGx2I3uXINpGqC8L0LD,21650.0,74214170.0
@@ -1962,6 +2274,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2273,Joanna Newsom,,ARDSWWZ1187FB4D18F,87c5dedd-371d-4a53-9f7f-80522fb7f3cb,,,5565555.0
 2274,She & Him,,AR3X6YL1187B9A44A0,6da01dec-d03c-492f-8f22-3969ea340888,3CIRif6ZAedT7kZSPvj2A4,163339.0,276066585.0
 2275,Edward Sharpe & The Magnetic Zeros,,,534dda3c-b73f-408b-8889-bd68eae84df6,7giUHu5pv6YTZgSkxxCcgh,352804.0,315875820.0
+2276,JÃ³nsi,,,,,,
 2277,Local Natives,,ARAWGDQ11FF10D8556,c3ecef5d-84f3-4942-8c24-0a626343c3f4,75dQReiBOHN37fQgWQrIAJ,459449.0,321144825.0
 2278,Broken Social Scene,,ARUNAM11187B98B490,c1e98e4a-4628-4c89-a7a6-0e0171600b05,7lOJ7WXyopaxri0dbOiZkd,13674.0,6925799.0
 2279,Crystal Castles,,AR5K3CW1187FB45B46,fdb53441-e5e6-4657-9aad-8dab672e1cdc,7K3zpFXBvPcvzhj7zlGJdO,87548.0,213344206.0
@@ -2011,6 +2324,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2323,The Beach Boys,,AR2DGPY1187FB4CECF,,3oDbviiivRWhXwIE8hxkVV,364.0,562555.0
 2324,Atlas Sound,,ARUYNK81187FB51B15,,3kGhAL9j1WyNjNkWTRQd8T,169639.0,265807703.0
 2325,The Roots,,AR8RXRI1187FB4104B,bce6d667-cde8-485e-b078-c0a05adea36d,78xUyw6FkVZrRAtziFdtdu,46.0,43680.0
+2326,Michael BublÃ©,,,,,,
 2327,Elvis Presley,,,1d18e4c5-28c2-4721-a364-cb99b4358102,43ZHCT0cAZBISjO8DG9PnE,2200.0,197443.0
 2328,Vince Guaraldi Trio,,AROSPS51187B9B481F,3b151af3-4c19-45c7-a8b6-c8af9d38f87f,4ytkhMSAnrDP8XzRNlw9FS,13953.0,2084011.0
 2329,Wham!,,,43b58c98-3779-4b04-9a23-1c95cca3a145,5lpH0xAS4fVfLkACg9DAuM,25311.0,548421.0
@@ -2033,6 +2347,8 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2346,El-P,,AR6XU001187FB3EF54,7e966957-9b0b-4e19-b8a0-4206535d8052,57UnSUpae3SbRekxNa5Kgl,72301.0,3567934.0
 2347,The Walkmen,,ARJR5ST1187B995D5F,29c91854-8c45-469b-b36d-a11fb650638b,6kFay2DQ5aZfeu5OsrF3Pw,5391.0,5305611.0
 2348,Azealia Banks,,ARZCUVG12DDD18825A,d20c9b30-d59e-4426-b804-82a0e54dbe14,7gRhy3MIPHQo5CXYfWaw9I,1297524.0,329300496.0
+2349,Sigur Ros,,,,,,
+2350,Edward Sharpe & The Magnetic Zeros ââ¦,,,,,,
 2351,Japandroids,,ARIB9NY11C8A41593E,87b9b3b8-ab93-426c-a200-4012d667a626,2WcCoPxAWFNSCvsFPrpf30,378707.0,310972126.0
 2352,Scissor Sisters,,ARY2Z6Y1187B9BA126,e942594a-91cc-427a-8beb-6815c28e9254,3Y10boYzeuFCJ4Qgp53w6o,156.0,5610556.0
 2353,Hot Chip,,ARWA8AH1187FB3FC84,31a88d29-827e-4c67-ad46-e47fab0de3c1,37uLId6Z5ZXCx19vuruvv5,14833.0,24375409.0
@@ -2102,11 +2418,13 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2417,Earl Sweatshirt,,ARBJJIA12EC561C1C3,5f95440d-7737-4a36-9bcf-c05337f7129b,3A5tHz1SfngyOZM2gItYKu,,445693504.0
 2418,King Krule,,ARWASLO1337EC1417C,84a5c934-8318-4080-8606-32b80e1b054a,4wyNyxs74Ux8UIDopNjIai,1145978.0,474544289.0
 2419,Volcano Choir,,ARTTAXP123E29C2168,6c25514f-1f14-4106-a142-be95ba11f117,6gAtOqhriLzOzb3Qqmg5kO,444008.0,445959577.0
+2420,Janelle MonÃ¡e,,,,,,
 2421,HAIM,,,6f1de078-6684-4792-820d-2ffad64c15ed,4Ui2kfOqGujY81UcPrb5KE,,164483115.0
 2422,Danny Brown,,AREK29T11C8A41514D,942a9807-9c1a-4a0e-a285-1fde2c5be9d1,7aA592KWirLsnfb5ulGWvU,897613.0,217291005.0
 2423,Pusha T,,ARR09ZZ1187FB4A10A,f6beac20-5dfe-4d1f-ae02-0b0a740aafd6,0ONHkAv9pCAFxb0zJwDNTy,1005978.0,682277.0
 2424,Darkside,,ARMYQ8J1187FB48332,9a2da736-57bd-4b0a-9d61-28712bbb7968,2933wDUojoQmvqSdTAE5NB,140383.0,710179990.0
 2425,The Head and the Heart,,ARYDQNM12ACA291480,c3f28da8-662d-4f09-bdc7-3084bf685930,0n94vC3S9c3mb2HyNAOcjg,849534.0,380045979.0
+2426,PoliÃ§a,,,,,,
 2427,Lou Reed,,ARO5T1P1187B9AC680,794c6bf2-3241-416f-9b8f-24e2d84a1c4b,42TFhl7WlMRXiNqzSrnzPL,1245.0,167203.0
 2428,Sky Ferreira,,,183105b5-3e68-4748-9086-2c1c11bf7a3d,7pyhre5oEEFMqcgMEvJY7q,689056.0,368290849.0
 2429,Blood Orange,,ARAWPUE11C8A415067,d5cc67b8-1cc4-453b-96e8-44487acdebea,6LEeAFiJF8OuPx747e1wxR,1013070.0,440698865.0
@@ -2114,6 +2432,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2431,Andy Williams,,,af953ba2-283b-41ef-93bc-b4cfc5feeebc,4sj6D0zlMOl25nprDJBiU9,,466691.0
 2432,Burl Ives,,ARN69L01187B99DFFA,af953ba2-283b-41ef-93bc-b4cfc5feeebc,0MHgLfmQdutffmvWe5XBTN,25732.0,355906.0
 2433,A Great Big World,,,56f62fe8-d3a0-46e0-b5df-a64a8b4b4274,5xKp3UyavIBUsGy3DQdXeF,1491797.0,569333045.0
+2434,,,,,,,
 2435,Warpaint,,ARCHKFC12420783A79,584c04d2-4acc-491b-8a0a-e63133f4bfc4,3AmgGrYHXqgbmZ2yKoIVzO,458178.0,305664605.0
 2436,Mogwai,,ARZ4XS71187B9AEF25,41bc6aa8-c097-4a7c-9758-564fc64d0d6b,34UhPkLbtFKRq3nmfFgejG,16604.0,2989748.0
 2437,Against Me!,,ARDUFS01187FB4CF5E,e02f122b-1440-4ec2-8f67-d99a65092f3e,29lz7gs8edwnnfuXW4FhMl,88210.0,6946251.0
@@ -2126,6 +2445,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2444,Angel Olsen,,ARWRMUJ12F0DAC478C,fac3ff34-6ba4-425a-8f01-b181ef4a908a,6mKqFxGMS5TGDZI3XkT5Rt,963126.0,426576022.0
 2445,The War on Drugs,,,49d461f0-3abf-422e-9569-8813e90074d7,6g0mn3tzAds6aVeUYRsryU,,282078681.0
 2446,Future Islands,,ARC4B2O11A348F041A,52074ba6-e495-4ef3-9bb4-0703888a9f68,1WvvwcQx0tj6NdDhZZ2zZz,526982.0,288437518.0
+2447,The Hold Steady,,,,,,
 2448,Mac DeMarco,,ARZLWMD135642F50A0,59a7fbcb-ff74-494d-abd0-9c82359040c9,3Sz7ZnJQBIHsXLUSo0OQtM,,501437762.0
 2449,Manchester Orchestra,,ARS8RW51187FB4B62D,e647a201-049e-4243-9256-07059c4640c0,5wFXmYsg3KFJ8BDsQudJ4f,92804.0,80919241.0
 2450,Todd Terje,,AR0U6711187FB3FFB1,185527bf-c293-4c24-8213-ed98fb8976be,49gaZqfow2v8EEQmjGyEIw,455955.0,162165640.0
@@ -2136,11 +2456,17 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2455,Chromeo,,ARAGT961187FB4193B,7f2aa196-cfd4-4a3d-ace3-28b7b6a79af7,2mV8aJphiSHYJf43DxL7Gt,7507.0,5523592.0
 2456,Swans,,AR6IHPG1187FB55C49,0c751690-c784-4a4f-b1e4-c1de27d47581,79S80ZWgVhIPMCHuvl6SkA,115053.0,5580746.0
 2457,Sylvan Esso,,,eb872766-98f6-453d-883f-2ae908a18315,39vA9YljbnOApXKniLWBZv,,661273932.0
+2458,RÃ¶yksopp,,,,,,
+2459,RÃ¶yksopp & Robyn,,,,,,
 2460,Sharon Van Etten,,ARDPYMW1229890073F,50a5520c-454a-4d5d-ab74-d442b58e7304,2wJ4vsxWd7df7dRU4KcoDe,597734.0,314263775.0
 2461,Parquet Courts,,AROPNYP13B48B7A769,,23NIwARd4vPbxt3wwNnJ6k,1476268.0,570708990.0
+2462,Jason DerÃ¼lo,,,,,,
 2463,First Aid Kit,,ARBDKOI12086C14B65,40419b33-18e9-4d5a-a674-30b4bb14bac2,21egYD1eInY6bGFcniCRT1,,370729254.0
 2464,White Lung,,ARIDXVS1242077EC8C,29c91854-8c45-469b-b36d-a11fb650638b,2iT2Fmot4VzWgdOTgp3j9M,,284247256.0
+2465,TiÃ«sto,,,,,,
 2466,How to Dress Well,,ARWEGZS1293C13122B,a80c5dc5-b12e-4667-9f5a-b568961f3839,4jLcgJjDGmW0HmvbSf6lEI,,384909913.0
+2467,A Sunny Day In Glasgow,,,,,,
+2468,Grimes Feat. Blood Diamonds,,,,,,
 2469,Death from Above 1979,,,0d59d6a4-994a-4436-a7e6-1684057d9bb1,18H0sAptzdwid08XGg1Lcj,,31683901.0
 2470,Bleachers,,,84f246f7-663b-40cf-a66f-336e8b314836,2eam0iDomRHGBypaDQLwWI,,824434533.0
 2471,Jungle,,ARDB5CB1187B99BA87,8dc08b1f-e393-4f85-a5dd-300f7693a8b8,59oA5WbbQvomJz2BuRG071,,825833522.0
@@ -2157,6 +2483,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2482,The Runaways,,AR74YRW1187FB3F834,9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa,5eTq3PxbOh5vgeRXKNqPyV,,343261.0
 2483,Elvin Bishop,,ARJIWJH1187FB3F6B9,66e74d85-d115-4b66-8a78-6488866e43d1,2G1yVp387GlUf9yvLk6V11,,137873.0
 2484,10cc,,ARUBDBK1187FB4D1B3,638206ee-0e3d-47cf-9769-d73330b15a87,6i6WlGzQtXtz7GcC5H5st5,,405340.0
+2485,BjÃ¶rn Skifs/BlÃ¥blus,,,,,,
 2486,Rupert Holmes,,ARFSRHL1187FB52D31,,0TqIPD4IS1w4e30R38B3vj,,15469287.0
 2487,Blue Swede,,,516cef4d-0718-4007-9939-f9b38af3f784,0UpuH5U4nZ3UGGUJi0Zfbp,,140872900.0
 2488,Porter Robinson,,ARTKZRY12AA0D8EAAA,1bb1eec6-88c3-4028-8920-a985c4b9081a,3dz0NnIZhtKKeXZxLOxCam,589326.0,282330711.0
@@ -2184,6 +2511,7 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2510,The Ronettes,,,1f2704a5-018a-422d-841b-c930fe28e76a,7CyeXFnOrfC1N6z4naIpgo,,16326351.0
 2511,Judy Garland,,,4580d83b-093e-4241-91fb-2dd71f5f1f3f,0hItVPjwJLVZrFqOyIsxPf,,67663.0
 2512,Eartha Kitt,,,7a9e37d6-4396-415b-80f6-4b23b1c041df,1AwO9pWEBSBoWdEZu28XDC,,2321181.0
+2513,JosÃ© Feliciano,,,,,,
 2514,Darlene Love,,ARDONAM1187B9A6005,1d45138d-c675-4016-87a7-7ad5cce5e1bc,391oLRVmoTkumiN79HkTWu,,16326345.0
 2515,Alesso,https://play.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t,ARFBFYB12C60E4E610,29ed4a49-fb99-4a5c-8713-609cabe6f34a,4AVFqumd2ogHFlRbKIjp1t,,
 2516,Kygo,https://play.spotify.com/artist/23fqKkggKUBHNkbKtXEls4,ARTZYQN13EEEF973E7,2c68a581-5b3a-45b8-a0b1-39c40873277a,23fqKkggKUBHNkbKtXEls4,,
@@ -2209,6 +2537,8 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2536,Jon Bellion,https://play.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg,ARBBOOA142D8302342,,50JJSqHUf2RQ9xsHs0KMHg,,
 2537,Ty Dolla $ign,https://play.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq,,db48610c-6d8f-4d10-90ca-c4d14bb1a8b1,,1518996.0,
 2538,Frank Sinatra,https://play.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0,,744b52c8-509b-4451-abfd-a17d18d4bd1d,1Mxqyy3pSjf8kZZL4QVxS0,,171366.0
+2539,Chuck Berry,https://play.spotify.com/artist/293zczrfYafIItmnmM3coR,,,,,
+2540,Original Soundtrack,https://play.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z,,,,,
 2541,Carpenters,https://play.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304,,7268ff55-3ac2-4546-a0cf-d7273840472f,1eEfMU2AhEo7XnKgL7c304,,117982008.0
 2542,AronChupa,https://play.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh,ARGYKIB142EE80AF67,b2029169-2574-4305-820f-252a5fde3697,5vCOdeiQt9LyzdI87kt5Sh,,777679292.0
 2543,Robin Schulz,https://play.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S,,f937dad0-316b-4ab3-88ee-6becc37091bd,,,
@@ -2225,3 +2555,4 @@ artist_id,name,image_url,echonest,lastfm,spotify,sevendigital,apple
 2554,Naughty Boy,https://play.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5,,56756959-1e78-429c-b897-e1d056cb0225,1bT7m67vi78r2oqvxrP3X5,,
 2555,New Community Church,https://play.spotify.com/artist/5h5gtX8PCO1ir1CuAygcb4,ARCMFQM145B4627438,,,,432371717.0
 2556,Mike Will Made-It,https://play.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk,,ab91c554-63b8-44b3-bba7-042f2942c896,,,
+2557,Shaun Reynolds feat. Laura Pringle,https://play.spotify.com/artist/1XmE9z8PzyHRK5Aw71h2zx,,,,,
