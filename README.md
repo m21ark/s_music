@@ -6,7 +6,9 @@ The dataset can be found here: http://mir.ilsp.gr/track_popularity.html
 
 ## TODO
 
-- [ ] **Task 1:** Procurar relação entre rankings. Se os artistas têm o mesmo ranking em diferentes rankings.
+- [X] **Task 1:** Procurar relação entre rankings. Se os artistas têm o mesmo ranking em diferentes rankings.
+    - **Resposta:** Parece haver alguma correlação, especialmente nas posições e entre Spotify e Billboard. Nos nº de listeners não mas isso pode ser uma questão demografica.
+
 - [ ] Fazer para apenas 1 ano primeiro. 
 - [ ] Procurar outliers de artistas menos famosos que são semelhantes com artistas mais famosos. 
 - [ ] Procurar outliers de artistas com grande crescimento ou grande descida.
