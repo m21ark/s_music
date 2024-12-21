@@ -6,7 +6,7 @@ The dataset can be found here: http://mir.ilsp.gr/track_popularity.html
 
 ## TODO
 
-- [ ] Procurar relação entre rankings. Se os artistas têm o mesmo ranking em diferentes rankings.
+- [ ] **Task 1:** Procurar relação entre rankings. Se os artistas têm o mesmo ranking em diferentes rankings.
 - [ ] Fazer para apenas 1 ano primeiro. 
 - [ ] Procurar outliers de artistas menos famosos que são semelhantes com artistas mais famosos. 
 - [ ] Procurar outliers de artistas com grande crescimento ou grande descida.
