@@ -1,4 +1,4 @@
-track_id,similar_track_id,sim_degree
+track_id_1,track_id_2,sim_degree
 2,72,1.0
 2,13,0.441825
 2,69,0.334081
