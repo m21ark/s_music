@@ -12,7 +12,7 @@ The dataset can be found here: http://mir.ilsp.gr/track_popularity.html
 - [ ] Fazer para apenas 1 ano primeiro. 
 - [ ] Procurar outliers de artistas menos famosos que são semelhantes com artistas mais famosos. 
 - [ ] Procurar outliers de artistas com grande crescimento ou grande descida.
-- [ ] Tempo médio de decay da popularidade de uma track
+- [ ] **Task 2:**  Tempo médio de decay da popularidade de uma track
 
 Tasks:
 - Reorganizar os ratings de forma a estarem no mesmo frame temporal
