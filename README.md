@@ -15,7 +15,7 @@ The dataset can be found here: http://mir.ilsp.gr/track_popularity.html
 - [ ] Tempo médio de decay da popularidade de uma track
 
 Tasks:
-- Reorganizar os ratings de forma a estarem no mesmo frame temporal
+- [X] Reorganizar os ratings de forma a estarem no mesmo frame temporal
 - Exploração da diferença de valores de rankings entre diferentes companies, pode ser geral, ou por artista, basta a diferença de valores.
 - Passar para os outliers
 - Se quisermos, ir até ao temp
