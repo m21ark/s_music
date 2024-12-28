@@ -10,7 +10,7 @@ The dataset can be found here: http://mir.ilsp.gr/track_popularity.html
     - **Resposta:** Parece haver alguma correlação, especialmente nas posições e entre Spotify e Billboard. Nos nº de listeners não mas isso pode ser uma questão demografica.
 - [ ] Procurar outliers de artistas menos famosos que são semelhantes com artistas mais famosos. 
 - [ ] **Task 2:** Procurar outliers de artistas com grande crescimento ou grande descida.
-- [ ] Tempo médio de decay da popularidade de uma track
+- [ ] Tempo médio de decay da popularidade de uma track *(In Progress)*
 
 Tasks:
 
