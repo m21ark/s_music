@@ -6,22 +6,19 @@ The dataset can be found here: http://mir.ilsp.gr/track_popularity.html
 
 ## TODO
 
-- [X] **Task 1:** Procurar relação entre rankings. Se os artistas têm o mesmo ranking em diferentes rankings.
-    - **Resposta:** Parece haver alguma correlação, especialmente nas posições e entre Spotify e Billboard. Nos nº de listeners não mas isso pode ser uma questão demografica.
-- [ ] Procurar outliers de artistas menos famosos que são semelhantes com artistas mais famosos. 
-- [ ] **Task 2:** Procurar outliers de artistas com grande crescimento ou grande descida.
-- [ ] Tempo médio de decay da popularidade de uma track *(In Progress)*
+- [X] **Task 1:** Procurar relação entre rankings. Se os artistas têm o mesmo ranking em diferentes rankings >> ANDRE ADICIONAR CORR TRACKS NO TASK1 NOTEBOOK
+- [ ] **Task 2:**  Procurar outliers de artistas menos famosos que são semelhantes com artistas mais famosos.  >> MARCO TERMINAR COM TABELA GRAFO
+- [ ] **Task 3.1:** Analisar decay popularidade por track com base em posicao (em numero ou binario se ta ou n em ranking) (ou nº de listeners ig) > João
+- [ ] **Task 3.2:** Analisar decay popularidade por artista com base em nº listeners > Ruben
+- [ ] **Task 3.3:** Comparar decay de popularidade entre artistas nos varios serviços para ver os q mais se aguentam no top e por quanto tempo e se muda por serviço > R + J
 
-Tasks:
+Por cada task:
 
-- [X] Reorganizar os ratings de forma a estarem no mesmo frame temporal
-- Exploração da diferença de valores de rankings entre diferentes companies, pode ser geral, ou por artista, basta a diferença de valores.
-- Passar para os outliers
-- Se quisermos, ir até ao temp
+- Análise geral
+- Análise de casos específicos 3 artistas/songs
+- Análise de outliers
 
-Extra:
-
-- echonest: million song dataset (para ir buscar o género, mas é pra descartar) -> alternativa usando spotify API
+Extra: Talvez procurar "shining stars" q aparecem e desaparecem
 
 ## Report Structure
 
