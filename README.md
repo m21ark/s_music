@@ -7,7 +7,7 @@ The dataset can be found here: http://mir.ilsp.gr/track_popularity.html
 ## TODO
 
 - [X] **Task 1:** Procurar relação entre rankings. Se os artistas têm o mesmo ranking em diferentes rankings >> ANDRE ADICIONAR CORR TRACKS NO TASK1 NOTEBOOK
-- [ ] **Task 2:**  Procurar outliers de artistas menos famosos que são semelhantes com artistas mais famosos.  >> MARCO TERMINAR COM TABELA GRAFO
+- [X] **Task 2:**  Procurar outliers de artistas menos famosos que são semelhantes com artistas mais famosos.  >> MARCO TERMINAR COM TABELA GRAFO
 - [ ] **Task 3.1:** Analisar decay popularidade por track com base em posicao (em numero ou binario se ta ou n em ranking) (ou nº de listeners ig) > João
 - [ ] **Task 3.2:** Analisar decay popularidade por artista com base em nº listeners > Ruben
 - [ ] **Task 3.3:** Comparar decay de popularidade entre artistas nos varios serviços para ver os q mais se aguentam no top e por quanto tempo e se muda por serviço > R + J
